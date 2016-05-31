@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: single
 modified: 2016-05-26
 title: Adding a Virtual Host for Local Development
 categories: code
