@@ -1,7 +1,6 @@
 ---
-layout: single
-modified: 2016-05-26
 title: Adding a Virtual Host for Local Development
+modified: 2016-05-26
 categories: code
 image:
   teaser: xampp-logo.png
