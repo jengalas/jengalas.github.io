@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Cacti"
+    url: https://jengalas.github.io/jekylltest/cacti/
+
+  - title: "Code"
+    url: https://jengalas.github.io/jekylltest/code/
+
+  - title: "Curiosities"
+    url: https://jengalas.github.io/jekylltest/curiosities/
 
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/
-
-  - title: "Sample Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
-
-  - title: "Sample Pages"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
-
-  - title: "Sample Collections"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+    url: https://jengalas.github.io/jekylltest/about/
