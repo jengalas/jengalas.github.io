@@ -1,7 +1,6 @@
 ---
-layout: single
-modified: 2016-05-23
 title: "Postcard History: Baoba Swinging Bridge and Shimer's Rock Cut"
+modified: 2016-05-23
 categories: curiosities
 ---
 [![Baoba Rock Cut](http://jennifergalas.com/wp-content/uploads/2015/04/baoba-rock-cut-187x300.jpg){: .align-right}](http://jennifergalas.com/wp-content/uploads/2015/04/baoba-rock-cut.jpg) Postcards are curated vignettes of our past, often idealized views of places from a time when it appears people could wander more freely. But if you keep your eyes open and do some research, you'll find that many of these places are still yours to explore.

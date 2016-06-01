@@ -1,7 +1,6 @@
 ---
-layout: single
-modified: 2013-10-20
 title: "Clarks Summit's Forgotten Village"
+modified: 2013-10-20
 categories: curiosities
 ---
 
