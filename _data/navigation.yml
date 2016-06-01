@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Cacti"
-    url: https://jengalas.github.io/jekylltest/cacti/
+    url: /cacti/
 
   - title: "Code"
-    url: https://jengalas.github.io/jekylltest/code/
+    url: /code/
 
   - title: "Curiosities"
-    url: https://jengalas.github.io/jekylltest/curiosities/
+    url: /curiosities/
 
   - title: "About"
-    url: https://jengalas.github.io/jekylltest/about/
+    url: /about/
