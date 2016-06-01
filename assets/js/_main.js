@@ -57,8 +57,7 @@ $(document).ready(function(){
       preload: [0,1] // Will preload 0 - before current, and 1 after the current image
     },
     image: {
-      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
-      titleSrc: this.gallery.title
+      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.'
     },
     removalDelay: 500, // Delay in milliseconds before popup is removed
     // Class that is added to body when popup is open.
