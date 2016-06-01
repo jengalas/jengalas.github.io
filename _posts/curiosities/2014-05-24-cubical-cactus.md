@@ -6,6 +6,7 @@ gallery:
   - url: P1080566cm.jpg
     image_path: P1080566cm.jpg
     alt: "placeholder image 1"
+    title: "cactus"
   - url: P1080566cm.jpg
     image_path: P1080566cm.jpg
     alt: "placeholder image 2"
