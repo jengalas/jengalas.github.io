@@ -32,7 +32,7 @@
           {% else %}
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
-        alt="{% if img.alt %}{{ img.alt }}{% endif %}" title="{% if img.title%}{{ img.title}}{% endif %}">
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}" {% if img.title%}title="{{ img.title}}"{% endif %}>
       </a>
     {% else %}
       <img src=
