@@ -10,9 +10,11 @@ gallery:
   - url: P1080566cm.jpg
     image_path: P1080566cm.jpg
     alt: "placeholder image 2"
+    title: "the same cactus"
   - url: P1080566cm.jpg
     image_path: P1080566cm.jpg
     alt: "placeholder image 3"
+    title: "and the same one again"
 
 ---
 
