@@ -4,8 +4,8 @@ modified: 2013-07-11
 categories: curiosities
 excerpt: "Astrophytum myriostigma var. quadricostatum: This cube-shaped cactus has been on my wishlist for years!"
 gallery:
-  - url: CatskillsMap2001cm-297x300.jpg
-    image_path: CatskillsMap2001cm-297x300.jpg
+  - url: CatskillsMap2001cm.jpg
+    image_path: CatskillsMap2001cm.jpg
     alt: "2001 map"
     title: "2001 map"
   - url: CatskillsMap2013cm.jpg
