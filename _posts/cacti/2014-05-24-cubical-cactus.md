@@ -4,15 +4,15 @@ modified: 2014-05-24
 categories: cacti
 gallery:
   - url: P1080566cm.jpg
-    image_path: P1080566cm.jpg
+    image_path: P1080566csm.jpg
     alt: "placeholder image 1"
     title: "cactus"
-  - url: P1080566cm.jpg
-    image_path: P1080566cm.jpg
+  - url: P1080823cm.jpg
+    image_path: P1080523csm.jpg
     alt: "placeholder image 2"
     title: "the same cactus"
-  - url: P1080566cm.jpg
-    image_path: P1080566cm.jpg
+  - url: P1080827cm.jpg
+    image_path: P1080827csm.jpg
     alt: "placeholder image 3"
     title: "and the same one again"
 
