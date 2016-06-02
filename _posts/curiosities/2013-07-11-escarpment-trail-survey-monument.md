@@ -19,11 +19,7 @@ A few months ago I was looking over one of my old editions of the [New York-New 
 
 Soon after, we received our updated 2013 map set and discovered that the Survey Monument is no longer shown on the map. See the comparison of the same area from the 2001 map (where the Survey Monument is clearly labeled along the Escarpment Trail) and the 2013 map:
 
-{% include gallery caption="*Astrophytum myriostigma var. quadricostatum* in bloom" %}
-
-[caption id="attachment_287" align="alignleft" width="297"]<a href="http://jennifergalas.com/wp-content/uploads/2013/06/CatskillsMap2001cm.jpg"><img src="http://jennifergalas.com/wp-content/uploads/2013/06/CatskillsMap2001cm-297x300.jpg" alt="2001 map" width="297" height="300" class="size-medium wp-image-287" /></a> 2001 map[/caption]
-
-[caption id="attachment_288" align="alignright" width="300"]<a href="http://jennifergalas.com/wp-content/uploads/2013/06/CatskillsMap2013cm.jpg"><img src="http://jennifergalas.com/wp-content/uploads/2013/06/CatskillsMap2013cm-300x295.jpg" alt="2013 map" width="300" height="295" class="size-medium wp-image-288" /></a> 2013 map[/caption]
+{% include gallery %}
 
 The description of the trail likewise omits any mention of the monument.  According to the map, the survey monument should be located between the following two points of interest:
 
