@@ -2,6 +2,7 @@
 title: "Cubical Cactus"
 modified: 2014-05-24
 categories: cacti
+excerpt: "*Astrophytum myriostigma var. quadricostatum*: This cube-shaped cactus has been on my wishlist for years!"
 gallery:
   - url: P1080566cm.jpg
     image_path: P1080566csm.jpg
