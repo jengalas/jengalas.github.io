@@ -5,16 +5,16 @@ categories: cacti
 gallery:
   - url: P1080566cm.jpg
     image_path: P1080566csm.jpg
-    alt: "placeholder image 1"
-    title: "cactus"
+    alt: "Cone-shaped bright yellow flowers"
+    title: "Cone-shaped bright yellow flowers"
   - url: P1080823cm.jpg
-    image_path: P1080523csm.jpg
-    alt: "placeholder image 2"
-    title: "the same cactus"
+    image_path: P1080823csm.jpg
+    alt: "Closeup of spent flowers"
+    title: "Closeup of spent flowers"
   - url: P1080827cm.jpg
     image_path: P1080827csm.jpg
-    alt: "placeholder image 3"
-    title: "and the same one again"
+    alt: "Extreme closeup"
+    title: "Extreme closeup (Rich was experimenting with a new lens)"
 
 ---
 
