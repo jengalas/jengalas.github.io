@@ -24,7 +24,6 @@ Soon after, we received our updated 2013 map set and discovered that the Survey 
 The description of the trail likewise omits any mention of the monument.  According to the map, the survey monument should be located between the following two points of interest:
 
 > 6.40 (miles): Badman Cave. To left, yellow-blazed Rock Shelter Trail leads to Mary's Glen Trail and Schutt Road.
-
 > 7.05: Reach junction with red-blazed Mary's Glen Trail. Bear right and climb steeply, following blue markers.
 
 So, of course, we are fascinated by this phantom "Survey Monument" and would love to have more information (and to find it, whatever it might be, for ourselves)!  The only reference to it that we've been able to find is the following, from someone else who seems just as confused as we are (and who actually visited the approximate area, searched, and found nothing):
