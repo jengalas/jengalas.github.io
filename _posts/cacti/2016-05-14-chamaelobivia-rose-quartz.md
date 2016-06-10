@@ -14,7 +14,7 @@ gallery:
     title: "Green and red"
 gallery2:    
   - url: P1050684cl.jpg
-    image_path: P1050684bsm.jpg
+    image_path: P1050684csm.jpg
     alt: "Buds viewed from the side"
     title: "Buds viewed from the side"
   - url: P1050657cl.jpg
