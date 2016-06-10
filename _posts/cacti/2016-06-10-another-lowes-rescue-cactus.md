@@ -11,5 +11,5 @@ The plant is labeled "Trichocereus grandiflorus," which I'm pretty sure it's not
 
 <figure>
   <a href="../../images/P1060422cl.jpg" title="Poor cactus"><img src="../../images/P1060422b.jpg" title="Poor cactus"></a>
-  <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Poor cactus">Poor cactus</a>.</figcaption>
+  <figcaption>Poor cactus.</figcaption>
 </figure>
