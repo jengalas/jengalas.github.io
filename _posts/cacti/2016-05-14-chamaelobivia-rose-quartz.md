@@ -30,4 +30,4 @@ gallery2:
 
 {% include gallery caption="*Chamaelobivia 'Rose Quartz'* in bloom" %}
 
-{% include gallery2 caption="*Chamaelobivia 'Rose Quartz'* in bloom" %}
+{% include gallery id="gallery2" caption="*Chamaelobivia 'Rose Quartz'* in bloom" %}
