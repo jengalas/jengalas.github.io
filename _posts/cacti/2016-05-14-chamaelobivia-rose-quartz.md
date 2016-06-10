@@ -13,11 +13,21 @@ gallery:
     alt: "Green and red"
     title: "Green and red"
 gallery2:    
-  - url: P1080827cm.jpg
-    image_path: P1080827csm.jpg
-    alt: "Extreme closeup"
-    title: "Extreme closeup (Rich was experimenting with a new lens)"
+  - url: P1050684cl.jpg
+    image_path: P1050684bsm.jpg
+    alt: "Buds viewed from the side"
+    title: "Buds viewed from the side"
+  - url: P1050657cl.jpg
+    image_path: P1050657csm.jpg
+    alt: "The first flower opens, with another waiting in the wings"
+    title: "The first flower opens, with another waiting in the wings"
+  - url: P1050664cl.jpg
+    image_path: P1050664csm.jpg
+    alt: "Red petals with iridescent violet highlights"
+    title: "Red petals with iridescent violet highlights"    
 
 ---
 
 {% include gallery caption="*Chamaelobivia 'Rose Quartz'* in bloom" %}
+
+{% include gallery2 caption="*Chamaelobivia 'Rose Quartz'* in bloom" %}
