@@ -6,18 +6,18 @@ excerpt: ""
 gallery:
   - url: P1060010cl.jpg
     image_path: P1060010csm.jpg
-    alt: "The plant in its pot"
-    title: "The plant in its pot"
+    alt: "The first bloom was a beautiful surprise!"
+    title: "The first bloom was a beautiful surprise!"
   - url: P1050947cl.jpg
     image_path: P1050947csm.jpg
-    alt: "Green and red"
-    title: "Green and red"
+    alt: "Briliant tropical colors"
+    title: "Briliant tropical colors"
   - url: P1060049cl.jpg
     image_path: P1060049csm.jpg
-    alt: "Green and red"
-    title: "Green and red"  
+    alt: "In full bloom, the flowers look like antennae"
+    title: "In full bloom, the flowers look like antennae"  
 ---
 
- 
+This adorable cactus was a gift from a colleague in appreciation for my work on a complex web development project. She had no idea that Rebutias are some of my favorite cactuses and yet I have only one other cactus from the genus. Our guess is that it is Rebutia fulviseta, based on the flowers, the shape of the body of the plant, and its dark-green-to-violet skin. But I welcome corrections! 
 
 {% include gallery caption="*Rebutia  fulviseta* in bloom" %}
