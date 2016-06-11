@@ -2,7 +2,7 @@
 title: "Rebutia Reward"
 modified: 2016-05-29
 categories: cacti
-excerpt: ""
+excerpt: "A thrilling gift from a thoughtful colleague!"
 gallery:
   - url: P1060010cl.jpg
     image_path: P1060010csm.jpg
