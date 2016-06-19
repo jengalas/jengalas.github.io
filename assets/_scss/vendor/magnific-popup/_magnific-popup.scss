@@ -515,10 +515,13 @@ button {
   }
   .mfp-title {
     text-align: left;
+    font-size: 1.5em;
     line-height: 18px;
     color: $mfp-caption-title-color;
     word-wrap: break-word;
     padding-right: 36px; // leave some space for counter at right side
+    font-style: italic;
+    margin-top: 0.5em;
   }
 
   .mfp-image-holder {
@@ -579,6 +582,7 @@ button {
         .mfp-counter {
           right: 5px;
           top: 3px;
+          margin-top: 0.5em;
         }
         .mfp-close {
           top: 0;
