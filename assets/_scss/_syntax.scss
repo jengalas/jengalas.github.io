@@ -10,7 +10,7 @@ div.highlighter-rouge, figure.highlight {
   border-radius: $border-radius;
   background-color: $code-background-color-dark;
   box-shadow: $box-shadow;
-  color: #fdce93;
+
 
   &:before {
     position: absolute;
@@ -31,6 +31,9 @@ div.highlighter-rouge, figure.highlight {
     font-family: $monospace;
     font-size: $type-size-7;
     line-height: 1.8;
+    pre {
+      color: #fdce93;
+    }
   }
 }
 
