@@ -10,7 +10,7 @@ I've been using XAMPP for local development on a Windows machine, but I wanted t
 
 Add the following lines to the bottom of `httpd.conf` (found in `xampp\apache\conf\`):
 
-```apache
+```
 NameVirtualHost *:80
 
 <VirtualHost *:80>
