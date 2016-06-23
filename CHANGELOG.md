@@ -1,3 +1,86 @@
+## [3.2.11](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.11)
+
+### Bug Fixes
+
+- Fix disappearing author sidebar links [#372](https://github.com/mmistakes/minimal-mistakes/issues/372)
+
+### Maintenance
+
+- Update gems: `github-pages` (84), `jekyll-github-metadata` 2.0.2, and `kramdown` 1.11.1
+- Update vendor JavaScript: jQuery 1.12.4, Stickyfill.js 1.1.4
+- Update Font Awesome 4.6.3
+
+## [3.2.10](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.10)
+
+### Maintenance
+
+- Add `CONTRIBUTING.md`
+
+## [3.2.9](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.9)
+
+### Enhancements
+
+- Add support for [header overlay images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#header-overlay) for Open Graph images. [#358](https://github.com/mmistakes/minimal-mistakes/pull/358)
+
+### Bug Fixes
+
+- Fix `Person` typo Schema.org type [#358](https://github.com/mmistakes/minimal-mistakes/pull/358)
+
+### Maintenance
+
+- Update `github-pages` gem and dependencies.
+- Remove `minutes_read` to avoid awkward reading time wording [#356](https://github.com/mmistakes/minimal-mistakes/issues/356)
+
+## [3.2.8](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.8)
+
+### Bug Fixes
+
+- Remove `cursor: pointer` that appears on white-space surrounding author side list items and links. [#354](https://github.com/mmistakes/minimal-mistakes/pull/354)
+
+### Maintenance
+
+- Add contributing information to `README.md`. [#357](https://github.com/mmistakes/minimal-mistakes/issues/357)
+
+## [3.2.7](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.7)
+
+### Enhancements
+
+- Add French localized UI text. [#346](https://github.com/mmistakes/minimal-mistakes/pull/346)
+
+### Bug Fixes
+
+- Fix branch logic for Yandex and Alexa in `seo.html`. [#348](https://github.com/mmistakes/minimal-mistakes/pull/348)
+
+## [3.2.6](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.6)
+
+### Bug Fixes
+
+- Fix error `Liquid Exception: divided by 0 in _includes/archive-single.html, included in _layouts/single.html` caused by null `words_per_minute` in `_config.yml`. [#345](https://github.com/mmistakes/minimal-mistakes/pull/345)
+
+## [3.2.5](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.5)
+
+### Bug Fixes
+
+- Fix link color in hero overlay to be white.
+- Remove underlines from archive item titles.
+
+## [3.2.4](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.4)
+
+### Enhancements
+
+- Improve text alignment of masthead, hero overlay, page footer to be flush left and remove awkward white-space gaps. [#342](https://github.com/mmistakes/minimal-mistakes/issues/342)
+- Add Spanish localized UI text. [#338](https://github.com/mmistakes/minimal-mistakes/pull/338)
+
+### Bug Fixes
+
+- Fix alignment of icons in author sidebar [#341](https://github.com/mmistakes/minimal-mistakes/issues/341)
+
+### Maintenance
+
+- Add background color to page footer to set it apart from main content. [#342](https://github.com/mmistakes/minimal-mistakes/issues/342)
+- Add terms and privacy policy to theme's demo site. [#343](https://github.com/mmistakes/minimal-mistakes/issues/343)
+- Update screenshots found in theme documentation.
+
 ## [3.2.3](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.3)
 
 ### Enhancement
