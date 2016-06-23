@@ -35,7 +35,7 @@ en-UK:
 # Spanish
 # --------------
 es: &DEFAULT_ES
-  page                  : "P·gina"
+  page                  : "P√°gina"
   pagination_previous   : "Anterior"
   pagination_next       : "Siguiente"
   breadcrumb_home_label : "Inicio"
@@ -47,11 +47,11 @@ es: &DEFAULT_ES
   share_on_label        : "Compartir"
   meta_label            :
   tags_label            : "Etiquetas:"
-  categories_label      : "CategorÌas:"
+  categories_label      : "Categor√≠as:"
   date_label            : "Actualizado:"
   comments_label        : "Comentar"
-  more_label            : "Ver m·s"
-  related_label         : "PodrÌas ver tambiÈn"
+  more_label            : "Ver m√°s"
+  related_label         : "Podr√≠as ver tambi√©n"
   follow_label          : "Seguir:"
   feed_label            : "Feed"
   powered_by            : "Powered by"
@@ -68,7 +68,7 @@ es-CO:
 # -----------------
 fr: &DEFAULT_FR
   page                  : "Page"
-  pagination_previous   : "PrÈcÈdent"
+  pagination_previous   : "Pr√©c√©dent"
   pagination_next       : "Suivant"
   breadcrumb_home_label : "Accueil"
   breadcrumb_separator  : "/"
@@ -79,18 +79,18 @@ fr: &DEFAULT_FR
   share_on_label        : "Partager sur"
   meta_label            :
   tags_label            : "Tags :"
-  categories_label      : "CatÈgories :"
-  date_label            : "Mis ‡ jour :"
+  categories_label      : "Cat√©gories :"
+  date_label            : "Mis √† jour :"
   comments_label        : "Laisser un commentaire"
   more_label            : "Lire plus"
   related_label         : "Vous pourriez aimer"
   follow_label          : "Suivez moi"
   feed_label            : "Flux"
-  powered_by            : "PropulsÈ par"
+  powered_by            : "Propuls√© par"
   website_label         : "Site"
   email_label           : "Email"
-  recent_posts          : "Posts rÈcents"
-  undefined_wpm         : "Le paramËtre words_per_minute n'est pas dÈfini dans _config.yml"
+  recent_posts          : "Posts r√©cents"
+  undefined_wpm         : "Le param√®tre words_per_minute n'est pas d√©fini dans _config.yml"
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
