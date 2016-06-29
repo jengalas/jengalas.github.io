@@ -290,7 +290,7 @@
   float: left;
 
   @include breakpoint($large) {
-    @include pre(1 of 12);
+    @include pre(0.5 of 12);
   }
 
   a {
