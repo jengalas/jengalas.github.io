@@ -12,7 +12,7 @@
 
   @include breakpoint($large) {
     display: block;
-    @include span(2 of 12 last);
+    @include span(2.5 of 12 last);
     opacity: 0.75;
     transition: opacity 0.2s ease-in-out;
 
