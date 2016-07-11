@@ -12,8 +12,8 @@ The downside is that you can’t really create a Fusion Table map from a spreads
 ## Getting started
 
 <figure>
-  <img src="/images/code/google-drive.png" title="Create new Fusion Table" style="max-width: 449px;">
-  <figcaption>Create new Fusion Table</figcaption>
+  <img src="/images/code/google-drive.png" title="Create new Fusion Table" style="max-width: 449px; position: relative;">
+  <figcaption style="position: absolute; bottom: -10px; left: 0;">Create new Fusion Table</figcaption>
 </figure>
 
 The process is: initially, create a new Fusion Table from your spreadsheet.
@@ -35,7 +35,7 @@ Later on, when you want to update the Fusion Table with new data from your sprea
 Once your data has been imported into the Fusion Table, you can create your map, assuming you have at least one column that can be geocoded. This can really be a column of any type of data that corresponds to location: geographic coordinates, addresses, even just names of states. Fusion Tables will choose one of your location columns and try to map it (you’ll see a tab labeled “Map of [your location column name]”). This may or may not result in what you want, but you can modify it.
 
 <figure>
-  <img src="/images/code/configure-map.png" title="Configure the fusion table map by choosing the Location column and setting styles and info window customizations">
+  <img src="/images/code/configure-map.png" title="Configure the fusion table map by choosing the Location column and setting styles and info window customizations" style="max-width: 631px;">
   <figcaption>Configure the fusion table map by choosing the Location column and setting styles and info window customizations</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Choose the Map tab and change the Location column, if necessary. Then you can al
 For my project, the only map feature style I was concerned with was setting custom marker icons to differentiate between existing and former (demolished) buildings. Make sure your Fusion Table has a column for “icon type,” and then select “Use icon specified in a column” to indicate which column refers to the icon you want to use for each data point.
 
 <figure>
-  <img src="/images/code/map-feature-window.png" title="Specify how you want to indicate your map marker icons.">
+  <img src="/images/code/map-feature-window.png" title="Specify how you want to indicate your map marker icons." style="max-width: 609px;">
   <figcaption>Specify how you want to indicate your map marker icons.</figcaption>
 </figure>
 
@@ -113,10 +113,9 @@ to display the map wherever you want on your page.
 The resulting map for the campus buildings app currently looks like this:
 
 <figure>
-  <img src="/images/code/fusion-table-map.png" title="Fusion table map of campus buildings">
+  <img src="/images/code/fusion-table-map.png" title="Fusion table map of campus buildings" style="max-width: 768px;">
   <figcaption>Fusion table map of campus buildings</figcaption>
 </figure>
- ""
 
 
 
