@@ -4,12 +4,12 @@ modified: 2016-06-30
 categories: cacti
 excerpt: "This &quot;paper spine&quot; cactus is fragile!"
 gallery:
-  - url: P1000517cl.jpg
-    image_path: P1000517b2.jpg
+  - url: cacti/P1000517cl.jpg
+    image_path: cacti/P1000517b2.jpg
     alt: "A new segment emerges. The plant is now lopsided due to the missing segment!"
     title: "A new segment emerges. The plant is now lopsided due to the missing segment!"
-  - url: P1000517dl.jpg
-    image_path: P1000517b.jpg
+  - url: cacti/P1000517dl.jpg
+    image_path: cacti/P1000517b.jpg
     alt: "An infrared view"
     title: "An infrared view"
 ---

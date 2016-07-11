@@ -8,12 +8,12 @@ gallery:
     image_path: cacti/P1080472csm.jpg
     alt: "This cactus flower has white and light pink petals with a magenta center."
     title: "This cactus flower has white and light pink petals with a magenta center."
-  - url: P1080479cl.jpg
-    image_path: P1080479csm.jpg
+  - url: cacti/P1080479cl.jpg
+    image_path: cacti/P1080479csm.jpg
     alt: "Close-up of the bloom"
     title: "Close-up of the bloom"
-  - url: P1080494cl.jpg
-    image_path: P1080494csm.jpg
+  - url: cacti/P1080494cl.jpg
+    image_path: cacti/P1080494csm.jpg
     alt: "It opened a bit wider by the third or fourth day. "
     title: "It opened a bit wider by the third or fourth day. "
 

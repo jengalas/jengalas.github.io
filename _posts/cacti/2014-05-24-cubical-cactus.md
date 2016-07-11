@@ -4,16 +4,16 @@ modified: 2014-05-24
 categories: cacti
 excerpt: "Astrophytum myriostigma var. quadricostatum: This cube-shaped cactus has been on my wishlist for years!"
 gallery:
-  - url: P1080566cm.jpg
-    image_path: P1080566csm.jpg
+  - url: cacti/P1080566cm.jpg
+    image_path: cacti/P1080566csm.jpg
     alt: "Cone-shaped bright yellow flowers"
     title: "Cone-shaped bright yellow flowers"
-  - url: P1080823cm.jpg
-    image_path: P1080823csm.jpg
+  - url: cacti/P1080823cm.jpg
+    image_path: cacti/P1080823csm.jpg
     alt: "Closeup of spent flowers"
     title: "Closeup of spent flowers"
-  - url: P1080827cm.jpg
-    image_path: P1080827csm.jpg
+  - url: cacti/P1080827cm.jpg
+    image_path: cacti/P1080827csm.jpg
     alt: "Extreme closeup"
     title: "Extreme closeup (Rich was experimenting with a new lens)"
 
