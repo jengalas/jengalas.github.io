@@ -13,14 +13,17 @@ The downside is that you can’t really create a Fusion Table map from a spreads
 
 <figure>
   <img src="/images/code/google-drive.png" title="Create new Fusion Table" style="max-width: 449px;">
-  <figcaption class="clearfix">Create new Fusion Table</figcaption>
+  <figcaption>Create new Fusion Table</figcaption>
 </figure>
 
 The process is: initially, create a new Fusion Table from your spreadsheet.
 
 In my case, I’m using just the building name, coordinates, address, building photo URL, and the icon type (which differentiates between current and destroyed buildings)—but you don’t have the option of importing only the columns you need. (It seems inefficient, but I haven’t found a way around this. I simply import all columns and only display the data I need via a custom infowindow).
 
-import-table.png "Import new table"
+<figure>
+  <img src="/images/code/import-table.png" title="Import new table">
+  <figcaption>Import new table</figcaption>
+</figure>
 
 You can import a spreadsheet from another application like Excel, or simply choose a Google spreadsheet that you have already created.
 {: .notice--success}
@@ -31,7 +34,10 @@ Later on, when you want to update the Fusion Table with new data from your sprea
 
 Once your data has been imported into the Fusion Table, you can create your map, assuming you have at least one column that can be geocoded. This can really be a column of any type of data that corresponds to location: geographic coordinates, addresses, even just names of states. Fusion Tables will choose one of your location columns and try to map it (you’ll see a tab labeled “Map of [your location column name]”). This may or may not result in what you want, but you can modify it.
 
-configure-map.png "Configure the fusion table map by choosing the Location column and setting styles and info window customizations"
+<figure>
+  <img src="/images/code/configure-map.png" title="Configure the fusion table map by choosing the Location column and setting styles and info window customizations">
+  <figcaption>Configure the fusion table map by choosing the Location column and setting styles and info window customizations</figcaption>
+</figure>
 
 Choose the Map tab and change the Location column, if necessary. Then you can also change **map feature styles** and create a **custom info window**.
 
@@ -39,7 +45,10 @@ Choose the Map tab and change the Location column, if necessary. Then you can al
 
 For my project, the only map feature style I was concerned with was setting custom marker icons to differentiate between existing and former (demolished) buildings. Make sure your Fusion Table has a column for “icon type,” and then select “Use icon specified in a column” to indicate which column refers to the icon you want to use for each data point.
 
-map-feature-window.png "Specify how you want to indicate your map marker icons."
+<figure>
+  <img src="/images/code/map-feature-window.png" title="Specify how you want to indicate your map marker icons.">
+  <figcaption>Specify how you want to indicate your map marker icons.</figcaption>
+</figure>
 
 The default icons supplied with Fusion Tables are very limited. Use this documentation to find other icon styles that you can use with a column specifying the icon name: [Fusion Tables Help: Change Placemark Icon](https://support.google.com/fusiontables/answer/2679986).
 
@@ -103,7 +112,11 @@ to display the map wherever you want on your page.
 
 The resulting map for the campus buildings app currently looks like this:
 
-fusion-table-map.png "Fusion table map of campus buildings"
+<figure>
+  <img src="/images/code/fusion-table-map.png" title="Fusion table map of campus buildings">
+  <figcaption>Fusion table map of campus buildings</figcaption>
+</figure>
+ ""
 
 
 
