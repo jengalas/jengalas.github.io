@@ -4,8 +4,8 @@ modified: 2014-05-11
 categories: cacti
 excerpt: "This unassuming little cactus has grown slowly and consistently and has worked his way into my heart over the years."
 gallery:
-  - url: P1080472cl.jpg
-    image_path: P1080472csm.jpg
+  - url: cacti/P1080472cl.jpg
+    image_path: cacti/P1080472csm.jpg
     alt: "This cactus flower has white and light pink petals with a magenta center."
     title: "This cactus flower has white and light pink petals with a magenta center."
   - url: P1080479cl.jpg
