@@ -12,7 +12,7 @@ The downside is that you can’t really create a Fusion Table map from a spreads
 ## Getting started
 
 <figure>
-  <img src="/images/code/google-drive.png" title="Create new Fusion Table">
+  <img src="/images/code/google-drive.png" title="Create new Fusion Table" style="max-width: 449px;">
   <figcaption>Create new Fusion Table</figcaption>
 </figure>
 
