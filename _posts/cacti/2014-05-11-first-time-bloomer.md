@@ -22,7 +22,7 @@ gallery:
 Rich and I bought this lovely *Gymnocalycium pflanzii* five or six years ago. It was a Lowe’s rescue purchase, so I had little hope for him from the start. But he has kept his neatly symmetrical shape while surviving a variety of conditions from chilly and dark in our kitchen to full sun in the warmth of our sunroom. No matter the environment, the only variation I noticed was in the color of his skin, going from dark green when kept in lower light to a rich purple-green in full sun.
 
 <figure>
-  <a href="../../images/cacti/P1080505cl.jpg" title="This view from the side shows the graceful outer covering of the bud, and two emerging buds."><img src="../../images/cacti/P1080505b.jpg" title="This view from the side shows the graceful outer covering of the bud, and two emerging buds."></a>
+  <a href="images/cacti/P1080505cl.jpg" title="This view from the side shows the graceful outer covering of the bud, and two emerging buds."><img src="/images/cacti/P1080505b.jpg" title="This view from the side shows the graceful outer covering of the bud, and two emerging buds."></a>
   <figcaption>This view from the side shows the graceful outer covering of the bud, and two emerging buds.</figcaption>
 </figure>
 
