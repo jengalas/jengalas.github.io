@@ -11,7 +11,10 @@ The downside is that you can’t really create a Fusion Table map from a spreads
 
 ## Getting started
 
-google-drive.png "Create new Fusion Table" left-aligned
+<figure>
+  <img src="/images/code/google-drive.png" title="Create new Fusion Table">
+  <figcaption>Create new Fusion Table</figcaption>
+</figure>
 
 The process is: initially, create a new Fusion Table from your spreadsheet.
 
