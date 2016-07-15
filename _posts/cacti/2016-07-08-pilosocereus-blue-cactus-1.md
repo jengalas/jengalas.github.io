@@ -1,4 +1,5 @@
-title: Pilosocereus&#58; Blue Cactus #1
+---
+title: "Pilosocereus: Blue Cactus #1"
 modified: 2016-07-08
 categories: cacti
 excerpt: ""
