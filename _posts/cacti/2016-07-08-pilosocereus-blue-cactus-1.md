@@ -13,3 +13,5 @@ I assume this is a young example of the commonly cultivated <i>P. pachycladus</i
   <a href="/images/cacti/P1000681cl.jpg" title="Bright blue columnar cactus"><img src="/images/cacti/P1000681b.jpg" title="Bright blue columnar cactus"></a>
   <figcaption>Bright blue columnar cactus</figcaption>
 </figure>
+
+</div>
