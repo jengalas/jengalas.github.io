@@ -1,5 +1,5 @@
 ---
-title: "Mamillaria nejapensis"
+title: "Mammillaria nejapensis"
 date: 2016-07-26
 categories: cacti
 excerpt: ""
