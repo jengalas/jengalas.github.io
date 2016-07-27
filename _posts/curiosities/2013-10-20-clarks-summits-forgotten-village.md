@@ -8,7 +8,7 @@ As I do every morning, today I glanced at the local newspaper's website.  Cool, 
 
 > Old-timers say that if you take a walk in the wooded area near Maple Avenue and South Abington Road [in Clarks Summit, PA], you might catch a fleeting glimpse of a shadowy figure toting a rifle. [...] Locals know it as the Forgotten Village.
 
-<iframe style="border: 1px solid black;" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.mappingsupport.com/p/gmap4.php?ll=41.491333,-75.68782&z=15&t=t1"></iframe>
+<iframe style="border: 1px solid black;" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://mappingsupport.com/p/gmap4.php?ll=41.491333,-75.68782&z=15&t=t1"></iframe>
 
 Wait ... what?!  I lived in Clarks Summit for two decades, a fanatic for all things abandoned and nearly forgotten, and this is the first I'm hearing of it?
 
