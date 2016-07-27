@@ -2,20 +2,20 @@
 title: "Escarpment Trail Survey Monument?"
 modified: 2013-07-11
 categories: curiosities
-excerpt: "Astrophytum myriostigma var. quadricostatum: This cube-shaped cactus has been on my wishlist for years!"
+excerpt: "A mysterious survey monument on a trail map of the Catskills"
 gallery:
-  - url: CatskillsMap2001cm.jpg
-    image_path: CatskillsMap2001cm.jpg
+  - url: curiosities/CatskillsMap2001cm.jpg
+    image_path: curiosities/CatskillsMap2001cm.jpg
     alt: "2001 map"
     title: "2001 map"
-  - url: CatskillsMap2013cm.jpg
-    image_path: CatskillsMap2013cm.jpg
+  - url: curiosities/CatskillsMap2013cm.jpg
+    image_path: curiosities/CatskillsMap2013cm.jpg
     alt: "2013 map"
     title: "2013 map"
   
 ---
 
-A few months ago I was looking over one of my old editions of the [New York-New Jersey Trail Conference Catskill Trails map set](http://www.nynjtc.org/product/new-catskill-trails-map-set-maps-hiking-catskills), and I noticed something labeled as a "Survey Monument" on the North-South Lake map (#40).  Neither Rich nor I have ever seen this monument in person nor heard anything about it.  The survey monument does not appear on any USGS topo maps of the area, nor is it listed among USGS or NGS datasheets.
+A few months ago I was looking over one of my old editions of the [New York-New Jersey Trail Conference Catskill Trails map set](http://www.nynjtc.org/product/new-catskill-trails-map-set-maps-hiking-catskills), and I noticed something labeled as a "Survey Monument" on the North-South Lake map (#40).  Neither Rich nor I have ever seen this monument in person. We haven't heard anything about it.  The survey monument does not appear on any USGS topo maps of the area, nor is it listed among USGS or NGS datasheets.
 
 Soon after, we received our updated 2013 map set and discovered that the Survey Monument is no longer shown on the map. See the comparison of the same area from the 2001 map (where the Survey Monument is clearly labeled along the Escarpment Trail) and the 2013 map:
 
