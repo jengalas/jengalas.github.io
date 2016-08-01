@@ -45,6 +45,7 @@ Next, I experimented with colors and styles to build a clean, minimal, easy-to-n
 The header and footer are clean and simple:
 
 Header
+
 ```html
 <div id="wrap">
     <div id="header" style="background-image: url(http://www.scranton.edu/academics/wml/images/serials-solutions-background.png);">
@@ -57,6 +58,7 @@ Header
 ```
 
 Footer
+
 ```html
         </div>
     </div>
@@ -68,6 +70,7 @@ Footer
 ```
 
 The styling comes from a single css file:
+
 ```css
 /***************************
 ****************************
