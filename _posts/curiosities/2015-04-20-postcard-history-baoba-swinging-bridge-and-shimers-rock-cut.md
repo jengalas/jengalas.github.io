@@ -19,7 +19,7 @@ The benchmark description refers to the ``ERIE RAILROAD WAITING SHED``. Could th
 
 But the fun doesn't end here! See that bridge over the river just north of the first "S" in Shimers? Turns out it's a swinging bridge that has been in place in some form since 1882.
 
-Bridgemeister shares some of his information about ["Rock Cut Farm Swinging Bridge"](a href="http://www.bridgemeister.com/pic.php?pid=1601) and notes that the although the bridge was most recently washed out in the flood of 2006—one of many floods of the Lackawaxen over the last century—it was promptly replaced. Does it remain to this day? The bridge appears in Google satellite imagery from 2009, but the flood of 2011 may have damaged the bridge once again.
+Bridgemeister shares some of his information about ["Rock Cut Farm Swinging Bridge"](http://www.bridgemeister.com/pic.php?pid=1601) and notes that the although the bridge was most recently washed out in the flood of 2006—one of many floods of the Lackawaxen over the last century—it was promptly replaced. Does it remain to this day? The bridge appears in Google satellite imagery from 2009, but the flood of 2011 may have damaged the bridge once again.
 
 And there's one more detail that requires on-site investigation: the bridge shown in the postcard that passes *over* the rock cut. Nothing is visible in current satellite imagery, but PennPilot imagery from 1939 and 1959 show a road and bridge crossing the cut.
 
