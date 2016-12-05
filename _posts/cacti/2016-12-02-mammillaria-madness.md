@@ -2,7 +2,7 @@
 title: "Mammillaria Madness!"
 date: 2016-12-02
 categories: cacti
-excerpt: ""
+excerpt: "Today's visit to the Home Despot yielded two new plants for the collection—both *Mammillaria*."
 gallery:
   - url: cacti/P1020400cl.jpg
     image_path: cacti/P1020400b.jpg
