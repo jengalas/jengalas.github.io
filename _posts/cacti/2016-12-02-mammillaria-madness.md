@@ -14,7 +14,9 @@ gallery:
     title: "One plant or three? I won't know until I repot in spring."
 ---
 
-Today's visit to the Home Despot yielded two new plants for the collection—both *Mammillaria*. The first one I spotted was a *M. gracilis ssp. fragilis*. This is such a commonly sold plant that I never felt the urge to buy one at any given time, figuring I could always order one from a reputable seller online. But for some reason I never did, although I actually really like this plant. Today this nice cluster appeared, flowering pale yellow, and I couldn't resist. It should be a treat to repot, because the little segments pop off if you look at them sideways, which is to say, even easier than the segments of *Tephrocactus*. But like *Tephros*, the segments root easily.
+Today's visit to the Home Despot yielded two new plants for the collection—both *Mammillaria*. The first one I spotted was a *M. gracilis ssp. fragilis*. This is such a commonly sold plant that I never felt the urge to buy one at any given time, figuring I could always order one from a reputable seller online. But for some reason I never did, although I actually really like this plant. Today this nice cluster appeared, flowering pale yellow, and I couldn't resist. It should be a treat to repot, because the little segments pop off if you look at them sideways, which is to say, even easier than the segments of *Tephrocactus*. But like *Tephros*, the segments root readily. Mamms aren't known for their flowers, but I like the way these flowers dot the cluster with bursts of yellow. And their rounded petals are a change from the usual pointed Mamm petals.
+
+
 
 
 
