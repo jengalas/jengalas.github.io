@@ -34,4 +34,4 @@ And as a bonus, just this morning we spotted the emergence of a bud on our [larg
 
 {% include gallery caption="*Gymnocalycium pflanzii* in bloom" %}
 
-> McMillan, A. J. S. “Colour development in Schlumbergera.” *British Cactus and Succulent Journal* 11.1 (March 1993): 18-19. Print.
+> McMillan, A. J. S. “Colour development in Schlumbergera.” **British Cactus and Succulent Journal** 11.1 (March 1993): 18-19. Print.

@@ -20,6 +20,10 @@
   }
 }
 
+.archive > .page__title {
+  display: none;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -37,7 +41,7 @@
   font-family: $sans-serif-narrow;
 }
 
-// remove border
+/* remove border*/
 .page__content {
 
   .archive__item-title {
@@ -134,8 +138,8 @@ a:hover {
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; // reset before mixin does its thing
-    margin-right: 0; // reset before mixin does its thing
+    margin-left: 0; /* reset before mixin does its thing*/
+    margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
