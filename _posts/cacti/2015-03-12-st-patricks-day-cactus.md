@@ -48,7 +48,7 @@ Interestingly, the blooms were bright pink with just a tinge of peach when we bo
 
 I have to wonder whether the cactus was grown in lower temperatures in the nursery (and grocery store—who knows how long it was there before we bought it) and then warmer temperatures in our sunroom before its second blooming.
 
-{% include gallery2 caption="*Schlumbergera truncata* in second bloom" %}
+{% include gallery id="gallery2" caption="*Schlumbergera truncata* in second bloom" %}
 
 And as a bonus, just this morning we spotted the emergence of a bud on our [large Gymnocalycium](/cacti/first-time-bloomer). BudWatch 2015 has begun!
 
