@@ -9,7 +9,7 @@ gallery:
     alt: ""
     title: ""
   - url: cacti/P1120518cl.jpg
-    image_path: cacti/P1080479b.jpg
+    image_path: cacti/P1120518b.jpg
     alt: ""
     title: ""
 gallery2:
