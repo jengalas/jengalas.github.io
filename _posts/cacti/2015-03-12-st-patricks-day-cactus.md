@@ -2,7 +2,7 @@
 title: "St. Patrick's Day Cactus?"
 modified: 2015-03-12
 categories: cacti
-excerpt: ""
+excerpt: "No, this is not the red-headed Irishman again. It’s our Thanksgiving cactus (*Schlumbergera truncata*) blooming again in March."
 gallery:
   - url: cacti/P1120518cl.jpg
     image_path: cacti/P1120518b.jpg
@@ -40,7 +40,7 @@ gallery2:
 
 ---
 
-No, this is not the red-headed Irishman again. It’s our Thanksgiving cactus (*Shlumbergera truncata*) blooming again in March.
+No, this is not the red-headed Irishman again. It’s our Thanksgiving cactus (*Schlumbergera truncata*) blooming again in March.
 
 {% include gallery caption="*Schlumbergera truncata* in second bloom" %}
 
