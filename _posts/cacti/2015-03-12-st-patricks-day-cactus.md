@@ -4,6 +4,15 @@ modified: 2015-03-12
 categories: cacti
 excerpt: ""
 gallery:
+  - url: cacti/P1120451cl.jpg
+    image_path: cacti/P1120451b.jpg
+    alt: ""
+    title: ""
+  - url: cacti/P1120518cl.jpg
+    image_path: cacti/P1080479b.jpg
+    alt: ""
+    title: ""
+gallery2:
   - url: cacti/P1080472cl.jpg
     image_path: cacti/P1080472csm.jpg
     alt: "This cactus flower has white and light pink petals with a magenta center."
@@ -27,11 +36,6 @@ I have to wonder whether the cactus was grown in lower temperatures in the nurse
 
 And as a bonus, just this morning we spotted the emergence of a bud on our [large Gymnocalycium](/cacti/first-time-bloomer). BudWatch 2015 has begun!
 
-<figure>
-  <a href="/images/cacti/P1080505cl.jpg" title="This view from the side shows the graceful outer covering of the bud, and two emerging buds."><img src="/images/cacti/P1080505b.jpg" title="This view from the side shows the graceful outer covering of the bud, and two emerging buds."></a>
-  <figcaption>This view from the side shows the graceful outer covering of the bud, and two emerging buds.</figcaption>
-</figure>
-
-{% include gallery caption="*Gymnocalycium pflanzii* in bloom" %}
+{% include gallery caption="*Schlumbergera truncata* in second bloom" %}
 
 > McMillan, A. J. S. “Colour development in Schlumbergera.” **British Cactus and Succulent Journal** 11.1 (March 1993): 18-19. Print.
