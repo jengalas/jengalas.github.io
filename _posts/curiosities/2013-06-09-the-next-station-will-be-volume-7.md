@@ -10,6 +10,11 @@ This is the first of two books I’ve recently acquired from the series “The N
 
 Huge thanks go to my friend and colleague Elaine, who snatched this book out of the donations box at the library.  She knew I would love it.
 
+<figure>
+  <a href="/images/curiosities/NextStationVolume7Cover.jpg" title="Poor cactus"><img src="/images/curiosities/NextStationVolume7Cover.jpg" title="The Next Station Will Be ... Volume 7"></a>
+  <figcaption>Poor cactus.</figcaption>
+</figure>
+
 I decided to list the contents of each book because many times over the course of my hiking, exploring, and survey mark hunting adventures, I've come across books online that *might* hold the historical images I need to solve a particular mystery, but there is no way to tell without purchasing the book. I'm thinking the lists might help someone else who wonders if a particular book contains an image they are seeking. If you would like a scan of a particular image for research purposes, please feel free to contact me!
 
 Like the others in the series, this book showcases photographs taken in 1910 of railroad stations, accompanied by brief descriptions. This volume covers the Erie Railroad's Delaware Division (Port Jervis to Lanesboro, and the Honesdale branch [Lackawaxen to Honesdale]), Wyoming Division (the Saco branch [West Hawley to Saco] and the main line [Saco to Plains Jct.]), and Jefferson Division (Susquehanna to Carbondale).  The book also contains short historical notes about each division, track maps and track elevation profile diagrams for each division, and 1911 timetables. Some of the mile post numbers are out of order and seem a bit suspect, which may be due to the various junctions and spurs along the lines.  The numbers were copied exactly from the book, but if you have a verifiable correction, please leave a comment.
