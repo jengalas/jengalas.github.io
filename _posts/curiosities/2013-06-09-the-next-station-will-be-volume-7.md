@@ -6,7 +6,7 @@ excerpt: "Contents of the book &quot;The Next Station Will Be ... Volume 7: Erie
 
 ---
 
-This is the first of two books I’ve recently acquired from the series “The Next Station Will Be … ".  The other was <a href="http://jennifergalas.com/2013/05/30/the-next-station-will-be-volume-5-new-york-susquehanna-western-and-the-wilkes-barre-eastern/" title="The Next Station Will Be … Volume 5">Volume 5</a>, covering the New York, Susquehanna & Western railroad and its Wilkes-Barre & Eastern extension. 
+This is the first of two books I’ve recently acquired from the series “The Next Station Will Be … ".  The other was [Volume 5](/curiosities/2013-05-30-the-next-station-will-be-volume-5/), covering the New York, Susquehanna & Western railroad and its Wilkes-Barre & Eastern extension. 
 
 Huge thanks go to my friend and colleague Elaine, who snatched this book out of the donations box at the library.  She knew I would love it.
 
