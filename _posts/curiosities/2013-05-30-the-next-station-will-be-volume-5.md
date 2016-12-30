@@ -6,7 +6,7 @@ excerpt: "Contents of the book &quot;The Next Station Will Be ... Volume 5: New 
 
 ---
 
-This is the second of two books I've recently acquired from the series "The Next Station Will Be ... ".  The book showcases photographs taken in 1910 (accompanied by brief descriptions) of stations along the New York, Susquehanna & Western railroad and its Wilkes-Barre & Eastern extension.  The book also contains a brief historical note about the railroads, a 1914 track elevation profile diagram, an 1895 track map, and a 1908 timetable. 
+This is the second of two books I've recently acquired from the series "The Next Station Will Be ...".  The book showcases photographs taken in 1910 (accompanied by brief descriptions) of stations along the New York, Susquehanna & Western railroad and its Wilkes-Barre & Eastern extension.  The book also contains a brief historical note about the railroads, a 1914 track elevation profile diagram, an 1895 track map, and a 1908 timetable. 
 
 <figure>
 <a href="/images/curiosities/NextStationVolume5Cover.jpg" title="The Next Station Will Be ... Volume 5"><img src="/images/curiosities/NextStationVolume5Cover.jpg" title="The Next Station Will Be ... Volume 5"></a>
