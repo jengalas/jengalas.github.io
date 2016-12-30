@@ -11,7 +11,7 @@ This is the first of two books I’ve recently acquired from the series “The N
 Huge thanks go to my friend and colleague Elaine, who snatched this book out of the donations box at the library.  She knew I would love it.
 
 <figure>
-  <a href="/images/curiosities/NextStationVolume7Cover.jpg" title="Poor cactus"><img src="/images/curiosities/NextStationVolume7Cover.jpg" title="The Next Station Will Be ... Volume 7"></a>
+  <a href="/images/curiosities/NextStationVolume7Cover.jpg" title="The Next Station Will Be ... Volume 7"><img src="/images/curiosities/NextStationVolume7Cover.jpg" title="The Next Station Will Be ... Volume 7"></a>
   <figcaption>The Next Station Will Be ... Volume 7</figcaption>
 </figure>
 
