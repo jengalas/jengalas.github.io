@@ -12,7 +12,7 @@ Huge thanks go to my friend and colleague Elaine, who snatched this book out of 
 
 <figure>
   <a href="/images/curiosities/NextStationVolume7Cover.jpg" title="Poor cactus"><img src="/images/curiosities/NextStationVolume7Cover.jpg" title="The Next Station Will Be ... Volume 7"></a>
-  <figcaption>Poor cactus.</figcaption>
+  <figcaption>The Next Station Will Be ... Volume 7</figcaption>
 </figure>
 
 I decided to list the contents of each book because many times over the course of my hiking, exploring, and survey mark hunting adventures, I've come across books online that *might* hold the historical images I need to solve a particular mystery, but there is no way to tell without purchasing the book. I'm thinking the lists might help someone else who wonders if a particular book contains an image they are seeking. If you would like a scan of a particular image for research purposes, please feel free to contact me!
