@@ -9,7 +9,7 @@ Despite today's gloom, another cactus is in bloom!  I thought they were done for
 
 I love the orange/red center and double row of translucent yellow petals—like a sunrise at noontime.
 
-<figure>
-  <a href="/images/cacti/P1040310dm.jpg" title="A late bloom"><img src="/images/cacti/P1040310b.jpg" title="A late bloom"></a><br>
+<figure style="display: inline-block;">
+  <a href="/images/cacti/P1040310dm.jpg" title="A late bloom"><img src="/images/cacti/P1040310b.jpg" title="A late bloom"></a>
   <figcaption>A late bloom</figcaption>
 </figure>
