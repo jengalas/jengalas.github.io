@@ -8,6 +8,10 @@ image:
 
 Quick post for tonight.  Our digital services librarian asked me to change the default error message that appears when an unauthorized user tries to access one of our collections that is available only on campus.  CONTENTdm's default message looks like this:
 
+<figure>
+  <a href="/images/code/default_error.gif" title="Default error message"><img src="/images/code/default_error.gif" title="Default error message"></a>
+  <figcaption>Default error message</figcaption>
+</figure>
 
 We wanted to change the wording to be somewhat more friendly and also to provide an easy point of contact for users who have questions.
 
@@ -48,7 +52,10 @@ This is what I added to my `cdm_language_coll_clippings.xml` file (if necessary,
 
 This is the resulting custom message:
 
-    <img src="http://jennifergalas.com/wp-content/uploads/2013/07/custom_error1.gif" alt="Custom Error Message" width="548" height="115" class="alignnone size-full wp-image-433 noborder noshadow" />
+<figure>
+  <a href="/images/code/custom_error1.gif" title="Custom error message"><img src="/images/code/custom_error1.gif" title="Custom error message"></a>
+  <figcaption>Custom error message</figcaption>
+</figure>
     
 You might notice that the small red "alert" icon is gone.  That's simple to hide by including the following in your collection's CSS file:
 
@@ -56,7 +63,6 @@ You might notice that the small red "alert" icon is gone.  That's simple to hide
 span.ui-icon-alert-cdmerror {   
     display: none;
 }
-
 ```
 
 The "errorbox-link" style and custom colors are defined in that file too.
@@ -67,6 +73,9 @@ The filename must remain `cdm_language_coll_[collection alias].xml`.  CONTENTdm 
     
 Uploading can be done through CONTENTdm's Website Configuration Tool.  Log in, choose your collection, navigate to *Tools* in the left sidebar menu, and choose *Language*. Then browse to find the file locally, and upload and publish it.
     
-    <img src="http://jennifergalas.com/wp-content/uploads/2013/07/xml_upload.gif" alt="XML File Upload" width="854" height="413" class="alignnone size-full wp-image-413" />  
+<figure>
+  <a href="/images/code/xml_upload.gif" title="Uploading process"><img src="/images/code/xml_upload.gif" title="Uploading process"></a>
+  <figcaption>Uploading process</figcaption>
+</figure>
     
 You'll have to log out again to test it.
