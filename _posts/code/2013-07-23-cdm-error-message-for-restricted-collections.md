@@ -8,7 +8,7 @@ image:
 
 Quick post for tonight.  Our digital services librarian asked me to change the default error message that appears when an unauthorized user tries to access one of our collections that is available only on campus.  CONTENTdm's default message looks like this:
 
-<figure>
+<figure style="display: inline-block;">
   <a href="/images/code/default_error.gif" title="Default error message"><img src="/images/code/default_error.gif" title="Default error message"></a>
   <figcaption>Default error message</figcaption>
 </figure>
@@ -52,7 +52,7 @@ This is what I added to my `cdm_language_coll_clippings.xml` file (if necessary,
 
 This is the resulting custom message:
 
-<figure>
+<figure style="display: inline-block;">
   <a href="/images/code/custom_error1.gif" title="Custom error message"><img src="/images/code/custom_error1.gif" title="Custom error message"></a>
   <figcaption>Custom error message</figcaption>
 </figure>
