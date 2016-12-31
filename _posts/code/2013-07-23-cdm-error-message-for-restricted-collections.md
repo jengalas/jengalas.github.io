@@ -17,32 +17,23 @@ After a bit of grepping around on the server, I found the relevant piece of code
     
 `/usr/local/Content6/Website/public_html/ui/cdm/default/collection/default/resources/languages/cdm_language.xml`
     
-and it is:
-    
-<pre class="prettyprint lang-html">
-    &lt;tu tuid=&quot;SITE_error_KEY_error_1&quot;&gt;
-      &lt;tuv xml:lang=&quot;en_US&quot;&gt;
-        &lt;seg&gt;The collection &quot;~CDMERRORCOLLECTION~&quot; cannot be displayed. Log in and refresh the page to access restricted or unpublished collections.&lt;/seg&gt;
-      &lt;/tuv&gt;
-    &lt;/tu&gt;
-</pre>
-
+and it is: 
 
 ```
-&lt;tu tuid=&quot;SITE_error_KEY_error_1&quot;&gt;
-    &lt;tuv xml:lang=&quot;en_US&quot;&gt;
-        &lt;seg&gt;The collection &quot;~CDMERRORCOLLECTION~&quot; cannot be displayed. Log in and refresh the page to access restricted or unpublished collections.&lt;/seg&gt;
-    &lt;/tuv&gt;
-&lt;/tu&gt;
+<tu tuid="SITE_error_KEY_error_1">
+    <tuv xml:lang="en_US">
+        <seg>The collection "~CDMERRORCOLLECTION~" cannot be displayed. Log in and refresh the page to access restricted or unpublished collections.</seg>
+    </tuv>
+</tu>
 ```
 
 However, this is not the file we want to modify because in this case, we want the change to apply only to one of our collections.  Good news is, there's a corresponding collection-level XML file for each collection.  This file can be found at:
 
-`/usr/local/Content6/Website/public_html/ui/custom/default/collection/coll_<em>[collection alias]</em>/resources/languages/cdm_language_coll_<em>[collection alias]</em>.xml`
+`/usr/local/Content6/Website/public_html/ui/custom/default/collection/coll_*[collection alias]*/resources/languages/cdm_language_coll_*[collection alias]*.xml`
 
 > Note: if you don't have FTP or shell access to your server, you can download the file by accessing CONTENTdm's Website Configuration Tool, choosing your collection, clicking Tools in the left sidebar menu, and choosing Language.  Then click the "Download the current website interface config language file" link.
 
-The *SITE_error_KEY_error_1* section does not appear by default in the collection-level XML file, but you can simply add it, and modify the text to your specifications. If including HTML, be sure to enclose it in *<![CDATA[ ]]>* tags.
+The **SITE_error_KEY_error_1** section does not appear by default in the collection-level XML file, but you can simply add it, and modify the text to your specifications. If including HTML, be sure to enclose it in `<![CDATA[ ]]>` tags.
     
 This is what I added to my `cdm_language_coll_clippings.xml` file (if necessary, you can translate it and add a version for other languages too):
 
