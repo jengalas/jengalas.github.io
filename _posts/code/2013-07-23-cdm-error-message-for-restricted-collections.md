@@ -59,7 +59,7 @@ This is the resulting custom message:
     
 You might notice that the small red "alert" icon is gone.  That's simple to hide by including the following in your collection's CSS file:
 
-```
+```css
 span.ui-icon-alert-cdmerror {   
     display: none;
 }
