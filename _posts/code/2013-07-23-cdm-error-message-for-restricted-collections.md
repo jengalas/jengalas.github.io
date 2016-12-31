@@ -29,7 +29,7 @@ and it is:
 
 However, this is not the file we want to modify because in this case, we want the change to apply only to one of our collections.  Good news is, there's a corresponding collection-level XML file for each collection.  This file can be found at:
 
-`/usr/local/Content6/Website/public_html/ui/custom/default/collection/coll_*[collection alias]*/resources/languages/cdm_language_coll_*[collection alias]*.xml`
+`/usr/local/Content6/Website/public_html/ui/custom/default/collection/coll_[collection alias]/resources/languages/cdm_language_coll_[collection alias].xml`
 
 > Note: if you don't have FTP or shell access to your server, you can download the file by accessing CONTENTdm's Website Configuration Tool, choosing your collection, clicking Tools in the left sidebar menu, and choosing Language.  Then click the "Download the current website interface config language file" link.
 
@@ -39,70 +39,34 @@ This is what I added to my `cdm_language_coll_clippings.xml` file (if necessary,
 
 
 ```
-<VirtualHost *:80>
-    DocumentRoot "{path/to/project}"
-    ServerName {project-name}
-    <Directory "{path/to/project}">
-    Options Indexes FollowSymLinks ExecCGI Includes
-        Order allow,deny
-        Allow from all
-    </Directory>
-</VirtualHost>
+<tu tuid="SITE_error_KEY_error_1">
+    <tuv xml:lang="en_US">
+        <seg>The University of Scranton Newspaper Clippings collection is available for on-campus use only.  Please report any access issues or questions to <![CDATA[<a class="errorbox-link" href="mailto:digitalcollections@scranton.edu">digitalcollections@scranton.edu</a>]]>.</seg>
+    </tuv>
+</tu>
 ```
 
-Then add the following lines to your Windows `hosts` file (typically found in `Windows\System32\drivers\etc\`), again replacing `{project-name-n}` with the appropriate project name. Typically you'll have to run your text editor as an administrator in order to be able to save the changes. (If you're running your text editor as administrator and still are unable to save the file, you may have an antivirus program that's preventing you from making the change. You may need to momentarily disable it to save the file.)
+This is the resulting custom message:
+
+    <img src="http://jennifergalas.com/wp-content/uploads/2013/07/custom_error1.gif" alt="Custom Error Message" width="548" height="115" class="alignnone size-full wp-image-433 noborder noshadow" />
+    
+You might notice that the small red "alert" icon is gone.  That's simple to hide by including the following in your collection's CSS file:
 
 ```
-# localhost entries
-127.0.0.1       localhost
-127.0.0.1       {project-name-1}.test
-127.0.0.1       {project-name-2}.test
-```
-
-Then restart Apache.
-
-Now you can simply access `http://{project-name-n}.test` to reach the project of the same name. You can make bookmarks or shortcuts for quick access.
-
-*Note: there's nothing special about the .test extension—you can use .local or anything else you like, or nothing. I prefer to use .test as a simple visual indicator that I'm working on my development version of a site. In addition, .test is already reserved for "Testing & Documentation Examples" via [RFC-2606](http://tools.ietf.org/html/rfc2606), so it won't be purchased by, say, Google exclusively for its own use [like .dev was](https://iyware.com/dont-use-dev-for-development/).*
-
-### An example
-
-The relevant lines of my httpd.conf currently look like this (I'm set up for working on two projects):
+span.ui-icon-alert-cdmerror {   
+    display: none;
+}
 
 ```
-NameVirtualHost *:80
 
-<VirtualHost *:80>
-    DocumentRoot "C:/xampp/htdocs"
-    ServerName localhost
-</VirtualHost>
+The "errorbox-link" style and custom colors are defined in that file too.
 
-<VirtualHost *:80>
-    DocumentRoot "C:/Users/Zhanna/Code/streetrailway"
-    ServerName streetrailway.test
-    <Directory "C:/Users/Zhanna/Code/streetrailway">
-    Options Indexes FollowSymLinks ExecCGI Includes
-        Order allow,deny
-        Allow from all
-    </Directory>
-</VirtualHost>
+## Uploading
 
-<VirtualHost *:80>
-    DocumentRoot "C:/xampp/htdocs/PlanetZhanna/public_html/surveymarks"
-    ServerName surveymarks.test
-    <Directory "C:/xampp/htdocs/PlanetZhanna/public_html/surveymarks">
-    Options Indexes FollowSymLinks ExecCGI Includes
-        Order allow,deny
-        Allow from all
-    </Directory>
-</VirtualHost>
-```
-
-And my hosts file looks like this:
-
-```
-# localhost entries
-127.0.0.1       localhost
-127.0.0.1       streetrailway.test
-127.0.0.1       surveymarks.test
-```
+The filename must remain `cdm_language_coll_[collection alias].xml`.  CONTENTdm doesn't seem to recognize it otherwise, and you'll probably get an error.  At least I have.  So make a backup copy first, but be sure that you're using that name for the file you upload.  
+    
+Uploading can be done through CONTENTdm's Website Configuration Tool.  Log in, choose your collection, navigate to *Tools* in the left sidebar menu, and choose *Language*. Then browse to find the file locally, and upload and publish it.
+    
+    <img src="http://jennifergalas.com/wp-content/uploads/2013/07/xml_upload.gif" alt="XML File Upload" width="854" height="413" class="alignnone size-full wp-image-413" />  
+    
+You'll have to log out again to test it.
