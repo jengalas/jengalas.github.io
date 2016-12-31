@@ -23,7 +23,7 @@ After a bit of grepping around on the server, I found the relevant piece of code
     
 and it is: 
 
-```
+```xml
 <tu tuid="SITE_error_KEY_error_1">
     <tuv xml:lang="en_US">
         <seg>The collection "~CDMERRORCOLLECTION~" cannot be displayed. Log in and refresh the page to access restricted or unpublished collections.</seg>
