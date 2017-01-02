@@ -2,6 +2,19 @@
 title: "The Search for Acadia’s “Abandoned” Goat Trail"
 modified: 2013-10-18
 categories: curiosities
+gallery:
+  - url: curiosities/goat2-p180.jpg
+    image_path: curiosities/goat2-p180.jpg
+    alt: "Source: Acadia Trails Treatment Plan, p. 180"
+    title: "Source: Acadia Trails Treatment Plan, p. 180"
+  - url: curiosities/goat2-p203a.jpg
+    image_path: curiosities/goat2-p203a.jpg
+    alt: "Source: Acadia Trails Treatment Plan, p. 203"
+    title: "Source: Acadia Trails Treatment Plan, p. 203"
+  - url: curiosities/goat2-p203b.jpg
+    image_path: curiosities/goat2-p203b.jpg
+    alt: "Source: Acadia Trails Treatment Plan, p. 203"
+    title: "Source: Acadia Trails Treatment Plan, p. 203"
 ---
 
 I have occasionally been asked how I can enjoy returning to the same place, year after year, for vacation. The people who ask me this know I have a more adventurous streak, so I can understand their confusion.  But the more deeply I get to know a place, the more details I uncover that lead to more questions ... and the cycle continues.  
@@ -35,7 +48,7 @@ Two invaluable resources for research into the MDI's history are an Olmsted Cent
 
 We were encouraged by the following photos from *_Acadia Trails Treatment Plan_*, a companion book to *_Pathmakers_* that documents the condition of current and historic trails and proposes a long-term strategy for rehabilitation and maintenance.  These are relatively recent photos (late 1990s/early 2000s) that show intact stone steps and the existence of at least one rung and one handrail.
 
-[justified_image_grid ids=592,593,594]
+{% include gallery %}
 
 ## A quick search, and some assumptions
 
