@@ -60,7 +60,10 @@ For some reason, we initially assumed that any stone steps that still exist woul
 
 As the year passed, I remained just as intrigued and continued to search for more information about the lost Goat Trail.  
 
-[caption id="attachment_502" align="alignleft" width="300"]<a href="http://jennifergalas.com/wp-content/uploads/2013/10/mapsplice.gif"><img src="http://jennifergalas.com/wp-content/uploads/2013/10/mapsplice-300x300.gif" alt="Topo map with Goat Trail indicated" width="300" height="300" class="size-medium wp-image-502" /></a> Topo map with Goat Trail indicated[/caption]
+<figure style="display: inline-block;">
+  <a href="/images/curiosities/mapsplice.gif" title="Topo map with Goat Trail indicated"><img src="/images/curiosities/mapsplice.gif" title="Topo map with Goat Trail indicated"></a>
+  <figcaption>Topo map with Goat Trail indicated</figcaption>
+</figure>
 
 All of the historic path maps included in *_Pathmakers_* show the Goat Trail, but not with sufficient clarity or scale to pinpoint the location.
 
