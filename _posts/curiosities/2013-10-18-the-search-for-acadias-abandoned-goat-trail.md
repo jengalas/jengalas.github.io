@@ -27,7 +27,7 @@ But surprisingly—in some cases because of the impeccable quality with which th
 
 ## An inkling of a mystery
 
-Rich and I first became aware of the Goat Trail in 2012 from a very brief mention—a footnote, actually—in Tom St. Germain's renowned hiking guide to Acadia, _*A Walk in the Park*_.  On p. 68, St. Germain writes &quot;Now abandoned, the Goat Trail runs up the western side of Pemetic.&quot;  
+Rich and I first became aware of the Goat Trail in 2012 from a very brief mention—a footnote, actually—in Tom St. Germain's renowned hiking guide to Acadia, **_A Walk in the Park_**.  On p. 68, St. Germain writes &quot;Now abandoned, the Goat Trail runs up the western side of Pemetic.&quot;  
 
 The precipitous west face of Pemetic Mountain is a conspicuous blank spot on modern trail maps of the park, and I'd often wondered if there was a feasible way to explore it.  Once I heard about the prior existence of the Goat Trail, I was completely enchanted!  I knew that Rich and I had to find this trail, or whatever might be left of it.
 
