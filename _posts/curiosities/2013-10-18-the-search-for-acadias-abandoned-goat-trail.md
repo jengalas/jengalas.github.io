@@ -14,15 +14,15 @@ But surprisingly—in some cases because of the impeccable quality with which th
 
 ## An inkling of a mystery
 
-Rich and I first became aware of the Goat Trail in 2012 from a very brief mention—a footnote, actually—in Tom St. Germain's renowned hiking guide to Acadia, **A Walk in the Park**.  On p. 68, St. Germain writes &quot;Now abandoned, the Goat Trail runs up the western side of Pemetic.&quot;  
+Rich and I first became aware of the Goat Trail in 2012 from a very brief mention—a footnote, actually—in Tom St. Germain's renowned hiking guide to Acadia, *_A Walk in the Park_*.  On p. 68, St. Germain writes &quot;Now abandoned, the Goat Trail runs up the western side of Pemetic.&quot;  
 
 The precipitous west face of Pemetic Mountain is a conspicuous blank spot on modern trail maps of the park, and I'd often wondered if there was a feasible way to explore it.  Once I heard about the prior existence of the Goat Trail, I was completely enchanted!  I knew that Rich and I had to find this trail, or whatever might be left of it.
 
-Two invaluable resources for research into the MDI's history are an Olmsted Center report, **Pathmakers: Cultural Landscape Report for the Historic Hiking Trail System of Mount Desert Island**, and **Trails of History**, another book by Tom St. Germain.  
+Two invaluable resources for research into the MDI's history are an Olmsted Center report, *_Pathmakers: Cultural Landscape Report for the Historic Hiking Trail System of Mount Desert Island_,* and *_Trails of History_*, another book by Tom St. Germain.  
 
-**Trails of History** is a thorough and carefully written history of trailbuilding on the island—I typically recommend a cover-to-cover reading for anyone interested in the history of MDI and the park.  But it had little to offer concerning the Goat Trail.  
+*_Trails of History_* is a thorough and carefully written history of trailbuilding on the island—I typically recommend a cover-to-cover reading for anyone interested in the history of MDI and the park.  But it had little to offer concerning the Goat Trail.  
 
-**Pathmakers** was a bit more fruitful.  From it we noted the following:
+*_Pathmakers_* was a bit more fruitful.  From it we noted the following:
 
 * There is another Goat Trail on Norumbega Mountain (which we already knew, but it bears repeating so we're all clear which trail we're talking about). This is an active, currently maintained trail with no relation to the abandoned Goat Trail.
 * The Olmsted Center cataloged the trails with standard numbers for ease of reference and to avoid ambiguity.  The numbering system also encodes some information about the location and management of each trail.  The Goat Trail was given number 444. The fact that the number is in the 400s indicates that the trail is an historic (i.e., not currently maintained) path in the Seal Harbor VIS path district.
@@ -33,7 +33,7 @@ Two invaluable resources for research into the MDI's history are an Olmsted Cent
 
 ## Photographic evidence
 
-We were encouraged by the following photos from **Acadia Trails Treatment Plan**, a companion book to **Pathmakers** that documents the condition of current and historic trails and proposes a long-term strategy for rehabilitation and maintenance.  These are relatively recent photos (late 1990s/early 2000s) that show intact stone steps and the existence of at least one rung and one handrail.
+We were encouraged by the following photos from *_Acadia Trails Treatment Plan_*, a companion book to *_Pathmakers_* that documents the condition of current and historic trails and proposes a long-term strategy for rehabilitation and maintenance.  These are relatively recent photos (late 1990s/early 2000s) that show intact stone steps and the existence of at least one rung and one handrail.
 
 [justified_image_grid ids=592,593,594]
 
@@ -49,7 +49,7 @@ As the year passed, I remained just as intrigued and continued to search for mor
 
 [caption id="attachment_502" align="alignleft" width="300"]<a href="http://jennifergalas.com/wp-content/uploads/2013/10/mapsplice.gif"><img src="http://jennifergalas.com/wp-content/uploads/2013/10/mapsplice-300x300.gif" alt="Topo map with Goat Trail indicated" width="300" height="300" class="size-medium wp-image-502" /></a> Topo map with Goat Trail indicated[/caption]
 
-All of the historic path maps included in **Pathmakers** show the Goat Trail, but not with sufficient clarity or scale to pinpoint the location.
+All of the historic path maps included in *_Pathmakers_* show the Goat Trail, but not with sufficient clarity or scale to pinpoint the location.
 
 Old topographic maps are often good sources of information, and they are what we used to locate the abandoned Potholes Trail last year.  We spent some time studying [USGS's Historical Topo Map collection](http://geonames.usgs.gov/pls/topomaps/).  Only one series (1956, 1:62500 scale) shows the Goat Trail. 
 
@@ -81,7 +81,7 @@ Rich's note to our friend Dave tells the story well:
 >
 > The first thing that caught our attention were the possible faint remnants of yet another trail, which we later discovered might have been the original route of the western end of the Jordan Pond Carry Trail.  This trail had no flagging tape and nothing else to indicate that it was the Goat Trail. 
 >
-> Continuing a bit further south from where we had initially searched, we found the flagging tape easily and then discovered that the <em>entire route</em> was flagged!  At least ten trees were flagged, many more than the two that Tom had mentioned.  It's so wild. This entire part of the Goat Trail is basically one long stone staircase heading up to the Park Loop road and it's almost impossible <em>not</em> to see it—I guess as long as you know it's there.  (This is why Tom wants to call his forthcoming book &quot;Hidden in Plain Sight.&quot;)
+> Continuing a bit further south from where we had initially searched, we found the flagging tape easily and then discovered that the *entire route* was flagged!  At least ten trees were flagged, many more than the two that Tom had mentioned.  It's so wild. This entire part of the Goat Trail is basically one long stone staircase heading up to the Park Loop road and it's almost impossible *not* to see it—I guess as long as you know it's there.  (This is why Tom wants to call his forthcoming book &quot;Hidden in Plain Sight.&quot;)
 
 Part of the problem might be that we typically hike the shore trail east to west and the Goat Trail is much easier to notice if you're hiking in the opposite direction, but still—it's there plain for all to see, and now even more easily since it's so obviously flagged.  Tom first noticed the flagging on Friday and we are pretty sure it *wasn't* there on Wednesday, when Rich and I hiked the Jordan Pond Shore Trail with my parents.  It will be interesting to see how long it lasts.
 
