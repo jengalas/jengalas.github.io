@@ -43,7 +43,7 @@ Two invaluable resources for research into the MDI's history are an Olmsted Cent
 * Seal Harbor Path Committee chairman Edward Lothrop Rand noted in 1907 that the popular trail was &quot;an expense out of proportion to its utility.&quot; This was a sign that perhaps the trail lacked consistent maintenance and may have been abandoned even longer ago than we had expected.
 
 <figure style="display: inline-block;">
-  <a href="/images/curiosities/1968_goat_trail.gif" title="Goat Trail shown on 1968 map"><img src="/images/curiosities/mapsplice.gif" title="Goat Trail shown on 1968 mapd"></a>
+  <a href="/images/curiosities/1968_goat_trail.gif" title="Goat Trail shown on 1968 map"><img src="/images/curiosities/1968_goat_trail.gif" title="Goat Trail shown on 1968 mapd"></a>
   <figcaption>Goat Trail shown on 1968 map</figcaption>
 </figure>
 
