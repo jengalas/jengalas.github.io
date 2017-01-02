@@ -3,73 +3,73 @@ title: "The Search for Acadia’s “Abandoned” Goat Trail"
 modified: 2013-10-18
 categories: curiosities
 gallery:
-  - url: curiosities/goat2-p180.jpg
-    image_path: curiosities/goat2-p180.jpg
+  - url: images/curiosities/goat2-p180.jpg
+    image_path: images/curiosities/goat2-p180.jpg
     alt: "Source: Acadia Trails Treatment Plan, p. 180"
     title: "Source: Acadia Trails Treatment Plan, p. 180"
-  - url: curiosities/goat2-p203a.jpg
-    image_path: curiosities/goat2-p203a.jpg
+  - url: images/curiosities/goat2-p203a.jpg
+    image_path: images/curiosities/goat2-p203a.jpg
     alt: "Source: Acadia Trails Treatment Plan, p. 203"
     title: "Source: Acadia Trails Treatment Plan, p. 203"
-  - url: curiosities/goat2-p203b.jpg
-    image_path: curiosities/goat2-p203b.jpg
+  - url: images/curiosities/goat2-p203b.jpg
+    image_path: images/curiosities/goat2-p203b.jpg
     alt: "Source: Acadia Trails Treatment Plan, p. 203"
     title: "Source: Acadia Trails Treatment Plan, p. 203"
 gallery2:
-  - url: curiosities/P1050583cmx.jpg
-    image_path: curiosities/P1050583cmx.jpg
+  - url: images/curiosities/P1050583cmx.jpg
+    image_path: images/curiosities/P1050583cmx.jpg
     alt: "Flagging on a tree along the Jordan Pond Shore Trail helped us find the old Goat Trail."
     title: "Flagging on a tree along the Jordan Pond Shore Trail helped us find the old Goat Trail."
-  - url: curiosities/P1050589cmx.jpg
-    image_path: curiosities/P1050589cmx.jpg
+  - url: images/curiosities/P1050589cmx.jpg
+    image_path: images/curiosities/P1050589cmx.jpg
     alt: "The old stone steps of the Goat Trail"
     title: "The old stone steps of the Goat Trail"
-  - url: curiosities/P1050592cmx.jpg
-    image_path: curiosities/P1050592cmx.jpg
+  - url: images/curiosities/P1050592cmx.jpg
+    image_path: images/curiosities/P1050592cmx.jpg
     alt: "Start of Goat Trail from Jordan Pond Shore Trail. Note the flagging on tree."
     title: "Start of Goat Trail from Jordan Pond Shore Trail. Note the flagging on tree."
-  - url: curiosities/P1050598cmx.jpg
-    image_path: curiosities/P1050598cmx.jpg
+  - url: images/curiosities/P1050598cmx.jpg
+    image_path: images/curiosities/P1050598cmx.jpg
     alt: "First set of stone steps"
     title: "First set of stone steps"    
-  - url: curiosities/P1050603cmx.jpg
-    image_path: curiosities/P1050603cmx.jpg
+  - url: images/curiosities/P1050603cmx.jpg
+    image_path: images/curiosities/P1050603cmx.jpg
     alt: "Rich ascends the Goat Trail steps."
     title: "Rich ascends the Goat Trail steps."
-  - url: curiosities/P1050616cmx.jpg
-    image_path: curiosities/P1050616cmx.jpg
+  - url: images/curiosities/P1050616cmx.jpg
+    image_path: images/curiosities/P1050616cmx.jpg
     alt: "When we hiked the trail, it was quite well marked."
     title: "When we hiked the trail, it was quite well marked."
-  - url: curiosities/P1050631cmx.jpg
-    image_path: curiosities/P1050631cmx.jpg
+  - url: images/curiosities/P1050631cmx.jpg
+    image_path: images/curiosities/P1050631cmx.jpg
     alt: "Well-defined steps, and a handrail"
     title: "Well-defined steps, and a handrail"
-  - url: curiosities/P1050637cmx.jpg
-    image_path: curiosities/P1050637cmx.jpg
+  - url: images/curiosities/P1050637cmx.jpg
+    image_path: images/curiosities/P1050637cmx.jpg
     alt: "Hidden in plain sight along the Park Loop Road!"
     title: "Hidden in plain sight along the Park Loop Road!"      
-  - url: curiosities/P1050646cmx.jpg
-    image_path: curiosities/P1050646cmx.jpg
+  - url: images/curiosities/P1050646cmx.jpg
+    image_path: images/curiosities/P1050646cmx.jpg
     alt: "Stone staircase, with handrail, leading to the Park Loop Road"
     title: "Stone staircase, with handrail, leading to the Park Loop Road"
-  - url: curiosities/P1050655cmx.jpg
-    image_path: curiosities/P1050655cmx.jpg
+  - url: images/curiosities/P1050655cmx.jpg
+    image_path: images/curiosities/P1050655cmx.jpg
     alt: "The Goat Trail continues on opposite side of the loop road."
     title: "The Goat Trail continues on opposite side of the loop road."
-  - url: curiosities/P1050661cmx.jpg
-    image_path: curiosities/P1050661cmx.jpg
+  - url: images/curiosities/P1050661cmx.jpg
+    image_path: images/curiosities/P1050661cmx.jpg
     alt: "Iron rungs once gave access to the upper section."
     title: "Iron rungs once gave access to the upper section."
-  - url: curiosities/P1050664cmx.jpg
-    image_path: curiosities/P1050664cmx.jpg
+  - url: images/curiosities/P1050664cmx.jpg
+    image_path: images/curiosities/P1050664cmx.jpg
     alt: "More evidence of old rungs"
     title: "More evidence of old rungs"    
-  - url: curiosities/P1050673cmx.jpg
-    image_path: curiosities/P1050673cmx.jpg
+  - url: images/curiosities/P1050673cmx.jpg
+    image_path: images/curiosities/P1050673cmx.jpg
     alt: "More evidence of old rungs"
     title: "More evidence of old rungs"
-  - url: curiosities/P1050685cmx.jpg
-    image_path: curiosities/P1050685cmx.jpg
+  - url: images/curiosities/P1050685cmx.jpg
+    image_path: images/curiosities/P1050685cmx.jpg
     alt: "Some rungs that were not removed"
     title: "Some rungs that were not removed"      
 
