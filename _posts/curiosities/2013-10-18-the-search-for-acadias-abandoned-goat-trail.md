@@ -31,11 +31,11 @@ Rich and I first became aware of the Goat Trail in 2012 from a very brief mentio
 
 The precipitous west face of Pemetic Mountain is a conspicuous blank spot on modern trail maps of the park, and I'd often wondered if there was a feasible way to explore it.  Once I heard about the prior existence of the Goat Trail, I was completely enchanted!  I knew that Rich and I had to find this trail, or whatever might be left of it.
 
-Two invaluable resources for research into the MDI's history are an Olmsted Center report, *_Pathmakers: Cultural Landscape Report for the Historic Hiking Trail System of Mount Desert Island_,* and *_Trails of History_*, another book by Tom St. Germain.  
+Two invaluable resources for research into the MDI's history are an Olmsted Center report, **_Pathmakers: Cultural Landscape Report for the Historic Hiking Trail System of Mount Desert Island_**, and **_Trails of History_**, another book by Tom St. Germain.  
 
-*_Trails of History_* is a thorough and carefully written history of trailbuilding on the island—I typically recommend a cover-to-cover reading for anyone interested in the history of MDI and the park.  But it had little to offer concerning the Goat Trail.  
+**_Trails of History_** is a thorough and carefully written history of trailbuilding on the island—I typically recommend a cover-to-cover reading for anyone interested in the history of MDI and the park.  But it had little to offer concerning the Goat Trail.  
 
-*_Pathmakers_* was a bit more fruitful.  From it we noted the following:
+**_Pathmakers_** was a bit more fruitful.  From it we noted the following:
 
 * There is another Goat Trail on Norumbega Mountain (which we already knew, but it bears repeating so we're all clear which trail we're talking about). This is an active, currently maintained trail with no relation to the abandoned Goat Trail.
 * The Olmsted Center cataloged the trails with standard numbers for ease of reference and to avoid ambiguity.  The numbering system also encodes some information about the location and management of each trail.  The Goat Trail was given number 444. The fact that the number is in the 400s indicates that the trail is an historic (i.e., not currently maintained) path in the Seal Harbor VIS path district.
@@ -46,7 +46,7 @@ Two invaluable resources for research into the MDI's history are an Olmsted Cent
 
 ## Photographic evidence
 
-We were encouraged by the following photos from *_Acadia Trails Treatment Plan_*, a companion book to *_Pathmakers_* that documents the condition of current and historic trails and proposes a long-term strategy for rehabilitation and maintenance.  These are relatively recent photos (late 1990s/early 2000s) that show intact stone steps and the existence of at least one rung and one handrail.
+We were encouraged by the following photos from **_Acadia Trails Treatment Plan_**, a companion book to **_Pathmakers_** that documents the condition of current and historic trails and proposes a long-term strategy for rehabilitation and maintenance.  These are relatively recent photos (late 1990s/early 2000s) that show intact stone steps and the existence of at least one rung and one handrail.
 
 {% include gallery %}
 
@@ -65,7 +65,7 @@ As the year passed, I remained just as intrigued and continued to search for mor
   <figcaption>Topo map with Goat Trail indicated</figcaption>
 </figure>
 
-All of the historic path maps included in *_Pathmakers_* show the Goat Trail, but not with sufficient clarity or scale to pinpoint the location.
+All of the historic path maps included in **_Pathmakers_** show the Goat Trail, but not with sufficient clarity or scale to pinpoint the location.
 
 Old topographic maps are often good sources of information, and they are what we used to locate the abandoned Potholes Trail last year.  We spent some time studying [USGS's Historical Topo Map collection](http://geonames.usgs.gov/pls/topomaps/).  Only one series (1956, 1:62500 scale) shows the Goat Trail. 
 
