@@ -42,7 +42,12 @@ Two invaluable resources for research into the MDI's history are an Olmsted Cent
 * The lower end of the Goat Trail was a habitat for rare plants, in particular wild orchids, and a wide variety of tree specimens.  (I like finding lady's slippers and other orchids in the wild, so this was another incentive.)
 * Seal Harbor Path Committee chairman Edward Lothrop Rand noted in 1907 that the popular trail was &quot;an expense out of proportion to its utility.&quot; This was a sign that perhaps the trail lacked consistent maintenance and may have been abandoned even longer ago than we had expected.
 
-[caption id="attachment_804" align="alignleft" width="300"]<a href="http://jennifergalas.com/wp-content/uploads/2013/10/1968_goat_trail.gif"><img src="http://jennifergalas.com/wp-content/uploads/2013/10/1968_goat_trail-300x175.gif" alt="Goat Trail shown on 1968 map" width="300" height="175" class="size-medium wp-image-804" /></a> Goat Trail shown on 1968 map[/caption]The most recent map we could find that shows the Goat Trail is the Appalachian Mountain Club map of Mount Desert Island from 1968. We have no maps from the 1970s, and our maps from the late 1980s through the present show no sign of the trail. The trail, according to the 1968 map, began at Jordan Pond and crossed the Park Loop Road on its way east to Pemetic summit. We began referring to the area where the Goat Trail appeared to come close to Jordan Pond as the &quot;lower section&quot; of the Goat Trail.  This area is a limited patch of woods bordered by the road, the pond, and existing trails. It seemed like a good spot to begin our search. 
+<figure style="display: inline-block;">
+  <a href="/images/curiosities/1968_goat_trail.gif" title="Goat Trail shown on 1968 map"><img src="/images/curiosities/mapsplice.gif" title="Goat Trail shown on 1968 mapd"></a>
+  <figcaption>Goat Trail shown on 1968 map</figcaption>
+</figure>
+
+The most recent map we could find that shows the Goat Trail is the Appalachian Mountain Club map of Mount Desert Island from 1968. We have no maps from the 1970s, and our maps from the late 1980s through the present show no sign of the trail. The trail, according to the 1968 map, began at Jordan Pond and crossed the Park Loop Road on its way east to Pemetic summit. We began referring to the area where the Goat Trail appeared to come close to Jordan Pond as the &quot;lower section&quot; of the Goat Trail.  This area is a limited patch of woods bordered by the road, the pond, and existing trails. It seemed like a good spot to begin our search. 
 
 ## Photographic evidence
 
