@@ -4,16 +4,16 @@ modified: 2014-07-30
 categories: cacti
 excerpt: "Izzy, our first *Parodia magnifica* (and one of our first cacti!) blooms again!"
 gallery:
-  - url: cacti/P1090930cm.jpg
-    image_path: cacti/P1090930csm.jpg
+  - url: images/cacti/P1090930cm.jpg
+    image_path: images/cacti/P1090930csm.jpg
     alt: "Nearly open *Parodia* flower"
     title: "Nearly open *Parodia* flower"
-  - url: cacti/P1090895cm.jpg
-    image_path: cacti/P1090895csm.jpg
+  - url: images/cacti/P1090895cm.jpg
+    image_path: images/cacti/P1090895csm.jpg
     alt: "Color bursts forth from a spiny bud."
     title: "Color bursts forth from a spiny bud."
-  - url: cacti/P1090897cm.jpg
-    image_path: cacti/P1090897csm.jpg
+  - url: images/cacti/P1090897cm.jpg
+    image_path: images/cacti/P1090897csm.jpg
     alt: "A side view showing the prominent stigma"
     title: "A side view showing the prominent stigma"
 

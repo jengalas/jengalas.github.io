@@ -4,16 +4,16 @@ modified: 2016-05-29
 categories: cacti
 excerpt: "A thrilling gift from a thoughtful colleague!"
 gallery:
-  - url: cacti/P1060010cl.jpg
-    image_path: cacti/P1060010csm.jpg
+  - url: images/cacti/P1060010cl.jpg
+    image_path: images/cacti/P1060010csm.jpg
     alt: "The first bloom was a beautiful surprise!"
     title: "The first bloom was a beautiful surprise!"
-  - url: cacti/P1050947cl.jpg
-    image_path: cacti/P1050947csm.jpg
+  - url: images/cacti/P1050947cl.jpg
+    image_path: images/cacti/P1050947csm.jpg
     alt: "Briliant tropical colors"
     title: "Briliant tropical colors"
-  - url: cacti/P1060049cl.jpg
-    image_path: cacti/P1060049csm.jpg
+  - url: images/cacti/P1060049cl.jpg
+    image_path: images/cacti/P1060049csm.jpg
     alt: "In full bloom, the flowers look like antennae"
     title: "In full bloom, the flowers look like antennae"  
 ---

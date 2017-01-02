@@ -4,12 +4,12 @@ date: 2016-12-02
 categories: cacti
 excerpt: "Today's visit to the Home Despot yielded two new plants for the collection—both *Mammillaria*."
 gallery:
-  - url: cacti/P1020400cl.jpg
-    image_path: cacti/P1020400b.jpg
+  - url: images/cacti/P1020400cl.jpg
+    image_path: images/cacti/P1020400b.jpg
     alt: "A nice cluster of dainty yellow-flowering &quot;thimble cactus.&quot;"
     title: "A nice cluster of dainty yellow-flowering &quot;thimble cactus.&quot;"
-  - url: cacti/P1020395cl.jpg
-    image_path: cacti/P1020395b.jpg
+  - url: images/cacti/P1020395cl.jpg
+    image_path: images/cacti/P1020395b.jpg
     alt: "One plant or three? I won't know until I repot in spring."
     title: "One plant or three? I won't know until I repot in spring."
 ---

@@ -4,37 +4,37 @@ modified: 2015-03-12
 categories: cacti
 excerpt: "No, this is not the red-headed Irishman again. It’s our Thanksgiving cactus (*Schlumbergera truncata*) blooming again in March."
 gallery:
-  - url: cacti/P1120518cl.jpg
-    image_path: cacti/P1120518b.jpg
+  - url: images/cacti/P1120518cl.jpg
+    image_path: images/cacti/P1120518b.jpg
     alt: ""
     title: ""
-  - url: cacti/P1120451cl.jpg
-    image_path: cacti/P1120451b.jpg
+  - url: images/cacti/P1120451cl.jpg
+    image_path: images/cacti/P1120451b.jpg
     alt: ""
     title: ""
 gallery2:
-  - url: cacti/P1120470cl.jpg
-    image_path: cacti/P1120470csm.jpg
+  - url: images/cacti/P1120470cl.jpg
+    image_path: images/cacti/P1120470csm.jpg
     alt: ""
     title: ""
-  - url: cacti/P1120472cl.jpg
-    image_path: cacti/P1120472csm.jpg
+  - url: images/cacti/P1120472cl.jpg
+    image_path: images/cacti/P1120472csm.jpg
     alt: ""
     title: ""
-  - url: cacti/P1120490cl.jpg
-    image_path: cacti/P1120490csm.jpg
+  - url: images/acti/P1120490cl.jpg
+    image_path: images/cacti/P1120490csm.jpg
     alt: ""
     title: ""
-  - url: cacti/P1120475cl.jpg
-    image_path: cacti/P1120475csm.jpg
+  - url: images/cacti/P1120475cl.jpg
+    image_path: images/cacti/P1120475csm.jpg
     alt: ""
     title: ""
-  - url: cacti/P1120500cl.jpg
-    image_path: cacti/P1120500csm.jpg
+  - url: images/cacti/P1120500cl.jpg
+    image_path: images/cacti/P1120500csm.jpg
     alt: ""
     title: ""
-  - url: cacti/P1120467cl.jpg
-    image_path: cacti/P1120467csm.jpg
+  - url: images/cacti/P1120467cl.jpg
+    image_path: images/cacti/P1120467csm.jpg
     alt: ""
     title: ""
 

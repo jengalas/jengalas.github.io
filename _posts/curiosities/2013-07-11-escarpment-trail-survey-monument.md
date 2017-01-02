@@ -4,12 +4,12 @@ modified: 2013-07-11
 categories: curiosities
 excerpt: "A mysterious survey monument on a trail map of the Catskills"
 gallery:
-  - url: curiosities/CatskillsMap2001cm.jpg
-    image_path: curiosities/CatskillsMap2001cm.jpg
+  - url: images/curiosities/CatskillsMap2001cm.jpg
+    image_path: images/curiosities/CatskillsMap2001cm.jpg
     alt: "2001 map"
     title: "2001 map"
-  - url: curiosities/CatskillsMap2013cm.jpg
-    image_path: curiosities/CatskillsMap2013cm.jpg
+  - url: images/curiosities/CatskillsMap2013cm.jpg
+    image_path: images/curiosities/CatskillsMap2013cm.jpg
     alt: "2013 map"
     title: "2013 map"
   

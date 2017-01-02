@@ -4,25 +4,25 @@ modified: 2016-05-14
 categories: cacti
 excerpt: ""
 gallery:
-  - url: cacti/P1050736cl.jpg
-    image_path: cacti/P1050736bsm.jpg
+  - url: images/cacti/P1050736cl.jpg
+    image_path: images/cacti/P1050736bsm.jpg
     alt: "The plant in its pot"
     title: "The plant in its pot"
-  - url: cacti/P1050747cl.jpg
-    image_path: cacti/P1050747bsm.jpg
+  - url: images/cacti/P1050747cl.jpg
+    image_path: images/cacti/P1050747bsm.jpg
     alt: "Green and red"
     title: "Green and red"
 gallery2:    
-  - url: cacti/P1050684cl.jpg
-    image_path: cacti/P1050684csm.jpg
+  - url: images/cacti/P1050684cl.jpg
+    image_path: images/cacti/P1050684csm.jpg
     alt: "Buds viewed from the side"
     title: "Buds viewed from the side"
-  - url: cacti/P1050657cl.jpg
-    image_path: cacti/P1050657csm.jpg
+  - url: images/cacti/P1050657cl.jpg
+    image_path: images/cacti/P1050657csm.jpg
     alt: "The first flower opens, with another waiting in the wings"
     title: "The first flower opens, with another waiting in the wings"
-  - url: cacti/P1050664cl.jpg
-    image_path: cacti/P1050664csm.jpg
+  - url: images/cacti/P1050664cl.jpg
+    image_path: images/cacti/P1050664csm.jpg
     alt: "Red petals with iridescent violet highlights"
     title: "Red petals with iridescent violet highlights"    
 
