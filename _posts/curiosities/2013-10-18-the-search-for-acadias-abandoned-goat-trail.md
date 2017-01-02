@@ -15,6 +15,64 @@ gallery:
     image_path: curiosities/goat2-p203b.jpg
     alt: "Source: Acadia Trails Treatment Plan, p. 203"
     title: "Source: Acadia Trails Treatment Plan, p. 203"
+gallery2:
+  - url: curiosities/P1050583cmx.jpg
+    image_path: curiosities/P1050583cmx.jpg
+    alt: "Flagging on a tree along the Jordan Pond Shore Trail helped us find the old Goat Trail."
+    title: "Flagging on a tree along the Jordan Pond Shore Trail helped us find the old Goat Trail."
+  - url: curiosities/P1050589cmx.jpg
+    image_path: curiosities/P1050589cmx.jpg
+    alt: "The old stone steps of the Goat Trail"
+    title: "The old stone steps of the Goat Trail"
+  - url: curiosities/P1050592cmx.jpg
+    image_path: curiosities/P1050592cmx.jpg
+    alt: "Start of Goat Trail from Jordan Pond Shore Trail. Note the flagging on tree."
+    title: "Start of Goat Trail from Jordan Pond Shore Trail. Note the flagging on tree."
+  - url: curiosities/P1050598cmx.jpg
+    image_path: curiosities/P1050598cmx.jpg
+    alt: "First set of stone steps"
+    title: "First set of stone steps"    
+  - url: curiosities/P1050603cmx.jpg
+    image_path: curiosities/P1050603cmx.jpg
+    alt: "Rich ascends the Goat Trail steps."
+    title: "Rich ascends the Goat Trail steps."
+  - url: curiosities/P1050616cmx.jpg
+    image_path: curiosities/P1050616cmx.jpg
+    alt: "When we hiked the trail, it was quite well marked."
+    title: "When we hiked the trail, it was quite well marked."
+  - url: curiosities/P1050631cmx.jpg
+    image_path: curiosities/P1050631cmx.jpg
+    alt: "Well-defined steps, and a handrail"
+    title: "Well-defined steps, and a handrail"
+  - url: curiosities/P1050637cmx.jpg
+    image_path: curiosities/P1050637cmx.jpg
+    alt: "Hidden in plain sight along the Park Loop Road!"
+    title: "Hidden in plain sight along the Park Loop Road!"      
+  - url: curiosities/P1050646cmx.jpg
+    image_path: curiosities/P1050646cmx.jpg
+    alt: "Stone staircase, with handrail, leading to the Park Loop Road"
+    title: "Stone staircase, with handrail, leading to the Park Loop Road"
+  - url: curiosities/P1050655cmx.jpg
+    image_path: curiosities/P1050655cmx.jpg
+    alt: "The Goat Trail continues on opposite side of the loop road."
+    title: "The Goat Trail continues on opposite side of the loop road."
+  - url: curiosities/P1050661cmx.jpg
+    image_path: curiosities/P1050661cmx.jpg
+    alt: "Iron rungs once gave access to the upper section."
+    title: "Iron rungs once gave access to the upper section."
+  - url: curiosities/P1050664cmx.jpg
+    image_path: curiosities/P1050664cmx.jpg
+    alt: "More evidence of old rungs"
+    title: "More evidence of old rungs"    
+  - url: curiosities/P1050673cmx.jpg
+    image_path: curiosities/P1050673cmx.jpg
+    alt: "More evidence of old rungs"
+    title: "More evidence of old rungs"
+  - url: curiosities/P1050685cmx.jpg
+    image_path: curiosities/P1050685cmx.jpg
+    alt: "Some rungs that were not removed"
+    title: "Some rungs that were not removed"      
+
 ---
 
 I have occasionally been asked how I can enjoy returning to the same place, year after year, for vacation. The people who ask me this know I have a more adventurous streak, so I can understand their confusion.  But the more deeply I get to know a place, the more details I uncover that lead to more questions ... and the cycle continues.  
@@ -114,7 +172,7 @@ Now, the question is, how best to access the *upper* portion of the trail?  And 
 
 ## Goat Trail discovery images
 
-[justified_image_grid ids=604,605,606,607,608,609,610,611,612,613,614,615,616,617]
+{% include gallery id="gallery2" caption="Finding part of the Goat Trail—so cool!" %}
 
 ## GPS tracklog and waypoints  
 
