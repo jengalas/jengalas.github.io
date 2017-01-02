@@ -176,7 +176,7 @@ Now, the question is, how best to access the *upper* portion of the trail?  And 
 
 ## GPS tracklog and waypoints  
 
-<iframe style="width: 100%; height: 400px;" src="https://mappingsupport.com/p/gmap4.php?t=t4&q=https://planetzhanna.com/tracklogs/16SEP13-goat-wpt.gpx"></iframe>   
+<iframe style="width: 100%; height: 600px;" src="https://mappingsupport.com/p/gmap4.php?t=t4&q=https://planetzhanna.com/tracklogs/16SEP13-goat-wpt.gpx"></iframe>   
 
 <a class="btn btn-large btn-primary" href="http://planetzhanna.com/tracklogs/16SEP13-goat.gpx">Download tracklog (.gpx)</a>
 
