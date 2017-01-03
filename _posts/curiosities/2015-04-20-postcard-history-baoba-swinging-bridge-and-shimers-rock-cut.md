@@ -6,11 +6,11 @@ categories: curiosities
 ---
 
 <figure style="float: right;">
-  <a href="/images/curiosities/baoba-rock-cut.jpg" title="Baoba Rock Cut"><img src="/images/curiosities/baoba-rock-cut.jpg" title="Baoba Rock Cut"></a>
+  <a href="/images/curiosities/baoba-rock-cut.jpg" title="Baoba Rock Cut"><img src="/images/curiosities/baoba-rock-cut-thumb.jpg" title="Baoba Rock Cut"></a>
   <figcaption>Baoba Rock Cut</figcaption>
 </figure>
 
-[![Baoba Rock Cut](http://jennifergalas.com/wp-content/uploads/2015/04/baoba-rock-cut-187x300.jpg){: .align-right}](http://jennifergalas.com/wp-content/uploads/2015/04/baoba-rock-cut.jpg) Postcards are curated vignettes of our past, often idealized views of places from a time when it appears people could wander more freely. But if you keep your eyes open and do some research, you'll find that many of these places are still yours to explore.
+Postcards are curated vignettes of our past, often idealized views of places from a time when it appears people could wander more freely. But if you keep your eyes open and do some research, you'll find that many of these places are still yours to explore.
 
 Last week a postcard came up for bid that depicted a rock cut in Baoba, Pike County, Pennsylvania, circa 1910. I'm familiar with Pike County, having spent many days there searching for survey marks, geocaching, or just hiking around. But somehow I had never heard of the former village of Baoba (I still don't even know how to pronounce it—I'm going with BAY-oh-ba).
 
