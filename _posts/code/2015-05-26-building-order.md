@@ -796,7 +796,7 @@ As I mentioned above, I recommend using [Flatware](https://github.com/jsoma/flat
 
 [Stack Overflow](http://stackoverflow.com/) is a great site for general help. Also try [GitHub](https://github.com/)—open an issue for whatever project repository you’re using, and you will likely get help quickly.
 
-You can also [contact me](http://jennifergalas.com/contact/)! I’ll try to help in any way I can.
+You can also contact me! I’ll try to help in any way I can.
 
 
 
