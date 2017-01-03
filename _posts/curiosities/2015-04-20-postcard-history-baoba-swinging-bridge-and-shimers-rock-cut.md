@@ -5,7 +5,7 @@ categories: curiosities
 
 ---
 
-<figure style="float: right;">
+<figure style="display: inline-block; float: right;">
   <a href="/images/curiosities/baoba-rock-cut.jpg" title="Baoba Rock Cut"><img src="/images/curiosities/baoba-rock-cut-thumb.jpg" title="Baoba Rock Cut"></a>
   <figcaption>Baoba Rock Cut</figcaption>
 </figure>
