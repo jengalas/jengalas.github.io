@@ -3,7 +3,7 @@ Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
 (function () {
-  var searchFile = '//jengalas.github.io/feed.xml',
+  var searchFile = '//jennifergalas.com/feed.xml',
     searchEl,
     searchInputEl,
     searchResultsEl,
