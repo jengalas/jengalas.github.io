@@ -14,10 +14,10 @@
   /* sticky footer fix end */
   margin-top: 3em;
   padding: 0 1em 3em;
-  color: mix(#fff, $gray, 25%);
+  color: #fff;
   animation: intro 0.3s both;
   animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color: #685d6b;
   border-top: 1px solid $light-gray;
 
   footer {
@@ -41,7 +41,7 @@
   }
 
   .fa {
-    color: mix(#fff, $gray, 25%);
+    color: #fff;
   }
 }
 
