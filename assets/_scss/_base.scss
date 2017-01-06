@@ -76,6 +76,10 @@ del a {
   color: inherit;
 }
 
+em {
+  font-family: $italic;
+}
+
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
