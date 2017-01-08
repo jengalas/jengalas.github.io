@@ -101,7 +101,10 @@
   }
 
   figure a {
-    border-bottom: none;
+
+    &:hover {
+      border-bottom: none;
+   }
   }
 
   dt {
