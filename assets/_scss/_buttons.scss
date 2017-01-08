@@ -8,7 +8,6 @@
 
 .btn {
   /* default button */
-  background-color: #84a97a;
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
@@ -18,7 +17,7 @@
   font-weight: normal;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  background-color: #84a97a;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
