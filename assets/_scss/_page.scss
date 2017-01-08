@@ -100,11 +100,9 @@
     }
   }
 
-  figure a {
-
-    &:hover {
+  figure a,
+  figure a:hover {
       border-bottom: none;
-   }
   }
 
   dt {
