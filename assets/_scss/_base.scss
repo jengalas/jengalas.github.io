@@ -75,7 +75,8 @@ del a {
   color: inherit;
 }
 
-em {
+em,
+i {
   font-family: $italic;
   font-size: 0.9em;
 }
