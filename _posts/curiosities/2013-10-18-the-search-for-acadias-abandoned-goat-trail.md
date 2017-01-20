@@ -178,15 +178,15 @@ Now, the question is, how best to access the *upper* portion of the trail?  And 
 
 <iframe style="width: 100%; height: 600px;" src="https://mappingsupport.com/p/gmap4.php?t=t4&q=https://planetzhanna.com/tracklogs/16SEP13-goat-wpt.gpx"></iframe>   
 
-<a class="download" href="http://planetzhanna.com/tracklogs/16SEP13-goat.gpx">Download tracklog (.gpx)</a>
+<a class="btn btn-large btn-primary" href="http://planetzhanna.com/tracklogs/16SEP13-goat.gpx">Download tracklog (.gpx)</a>
 
 <a class="btn btn-large btn-primary" href="http://planetzhanna.com/tracklogs/16SEP13-goat-wpt-only.gpx">Download waypoints (.gpx)</a>
 
 ## Resources
 
-> Barter, Christian S., Brown, Margaret C., Stakely, J.T., Stellpflug, Gary J., & the Olmsted Center for Landscape Preservation. **Acadia Trails Treatment Plan: Cultural Landscape Report for the Historic Hiking Trail System of Acadia National Park, Maine**. Boston, MA: National Park Service, 2006.<br>Read on Internet Archive: <a href="http://archive.org/stream/acadiatrailstrea00bart">http://archive.org/stream/acadiatrailstrea00bart</a>
+> Barter, Christian S., Brown, Margaret C., Stakely, J.T., Stellpflug, Gary J., & the Olmsted Center for Landscape Preservation. **Acadia Trails Treatment Plan: Cultural Landscape Report for the Historic Hiking Trail System of Acadia National Park, Maine**. Boston, MA: National Park Service, 2006.<br>Read on Internet Archive: <http://archive.org/stream/acadiatrailstrea00bart>
 
-> Brown, Margaret C. & the Olmsted Center for Landscape Preservation. **Pathmakers: Cultural Landscape Report for the Historic Hiking Trail System of Mount Desert Island: Acadia National Park, Maine; History, Existing Conditions, & Analysis**. Boston, MA: National Park Service, 2006.<br>Read on Internet Archive: (http://archive.org/stream/pathmakerscultur00brow)
+> Brown, Margaret C. & the Olmsted Center for Landscape Preservation. **Pathmakers: Cultural Landscape Report for the Historic Hiking Trail System of Mount Desert Island: Acadia National Park, Maine; History, Existing Conditions, & Analysis**. Boston, MA: National Park Service, 2006.<br>Read on Internet Archive: <http://archive.org/stream/pathmakerscultur00brow>
 
 > St. Germain, Tom. **A Walk in the Park (10th ed.)**. Bar Harbor, ME: Parkman Publications, 2008.
 
