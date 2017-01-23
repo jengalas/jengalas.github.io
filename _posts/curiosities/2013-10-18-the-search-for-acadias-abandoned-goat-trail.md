@@ -182,6 +182,8 @@ Now, the question is, how best to access the *upper* portion of the trail?  And 
 
 <a class="btn btn-large btn-primary" href="http://planetzhanna.com/tracklogs/16SEP13-goat-wpt-only.gpx">Download waypoints (.gpx)</a>
 
+<a class="download" href="http://planetzhanna.com/tracklogs/16SEP13-goat.gpx">Download tracklog (.gpx)</a>
+
 ## Resources
 
 > Barter, Christian S., Brown, Margaret C., Stakely, J.T., Stellpflug, Gary J., & the Olmsted Center for Landscape Preservation. **Acadia Trails Treatment Plan: Cultural Landscape Report for the Historic Hiking Trail System of Acadia National Park, Maine**. Boston, MA: National Park Service, 2006.<br>Read on Internet Archive: <http://archive.org/stream/acadiatrailstrea00bart>
