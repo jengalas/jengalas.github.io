@@ -101,18 +101,18 @@
   }
 
   a.download {
-    border-bottom: 0;
     background-color: #84a97a;
+    background-position: 112px -34px;
+    background-repeat: no-repeat;
+    border-bottom: 0;
+    box-shadow: inset 0 0 0 4px #84a97a;
+    color: #fff;
     display: inline-block;
     font-size: 1em;
-    padding: 12px 20px 12px 20px;
-    color: #fff;
-    overflow: hidden;
-    width: auto;
     height: auto;
-    box-shadow: inset 0 0 0 4px #84a97a;
-    background-repeat: no-repeat;
-    background-position: 112px -34px;
+    overflow: hidden;
+    padding: 12px 20px 12px 20px;
+    width: auto;
     transition: all 0.3s;
   }
 
