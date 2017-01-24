@@ -117,15 +117,15 @@
   }
 
   a.download:hover {
-    padding: 12px 46px 12px 20px;
+    padding: 12px 24px 12px 20px;
   }
 
   a.download:hover:after {
     content: '';
     border: 6px solid transparent;
-    border-top: 6px solid white;
-    margin-left: 6px;
-    margin-bottom: 5px;
+    border-top: 6px solid whitesmoke;
+    margin-left: 18px;
+    margin-bottom: 3px;
     display: inline-block;
     vertical-align: bottom;
   }
