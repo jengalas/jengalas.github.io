@@ -182,6 +182,7 @@ Now, the question is, how best to access the *upper* portion of the trail?  And 
 
 <a class="btn btn-large btn-primary" href="http://planetzhanna.com/tracklogs/16SEP13-goat-wpt-only.gpx">Download waypoints (.gpx)</a>
 
+<!--
 <a class="download" href="http://planetzhanna.com/tracklogs/16SEP13-goat.gpx">Download tracklog (.gpx)</a>
 
 <ul>
@@ -193,7 +194,7 @@ Now, the question is, how best to access the *upper* portion of the trail?  And 
       <li><a href="#">About Us</a></li>
     </ul>
   </li>
-</ul>
+</ul> -->
 
 ## Resources
 
