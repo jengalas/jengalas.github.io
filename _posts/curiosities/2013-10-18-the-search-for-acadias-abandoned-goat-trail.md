@@ -48,7 +48,7 @@ gallery2:
     image_path: images/curiosities/P1050637cmx.jpg
     alt: "Hidden in plain sight along the Park Loop Road!"
     title: "Hidden in plain sight along the Park Loop Road!"      
-  - url: images/curiosities/P1050646cmx.jpg
+  - url: images/curiosities/P1050646csmx.jpg
     image_path: images/curiosities/P1050646cmx.jpg
     alt: "Stone staircase, with handrail, leading to the Park Loop Road"
     title: "Stone staircase, with handrail, leading to the Park Loop Road"
