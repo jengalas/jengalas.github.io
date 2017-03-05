@@ -8,15 +8,14 @@ gallery:
     image_path: images/cacti/P1000405csm.jpg
     alt: "Stenocereus?"
     title: "Stenocereus?"
-  - url: images/cacti/P1000415cl.jpg
-    image_path: images/cacti/P1000415csm.jpg
-    alt: "The spines are more like very stiff hairs"
-    title: "The spines are more like very stiff hairs"   
   - url: images/cacti/P1000421cl.jpg
     image_path: images/cacti/P1000421csm.jpg
     alt: "You can't have too many!"
     title: "You can't have too many!"
-   
+  - url: images/cacti/P1000415cl.jpg
+    image_path: images/cacti/P1000415csm.jpg
+    alt: "The spines are more like very stiff hairs"
+    title: "The spines are more like very stiff hairs"    
 
 ---
 
