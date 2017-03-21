@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Zhanna's Jekyll Test"
+title                    : "JenniferGalas.com"
 title_separator          : "-"
-name                     : "Zhanna"
-description              : "An amazing website."
+name                     : "Jennifer"
+description              : ""
 url                      : https://jennifergalas.com # http://localhost:4000 # https://jengalas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Zhanna"
+  name             : "Jennifer Galas"
   avatar           : "moose-bio-photo.jpg"
-  bio              : "I am a m00se."
+  bio              : ""
   location         : "Somewhere in the Milky Way"
-  email            : zhanna@planetzhanna.com
+  email            : jen@jennifergalas.com
   uri              :
   bitbucket        :
   codepen          :
