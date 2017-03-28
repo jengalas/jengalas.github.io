@@ -5,6 +5,18 @@ categories: code
 image:
   teaser: 
 ---
+
+I work with an ILS, Sierra, that brings new and changed records into the database via "load profiles." In the two years since I took the load profile training session, I've created a handful of these profiles for various projects in the library, such as loading ebook and serials records.
+
+Just for kicks, here's part of a load profile:
+
+<figure style="display: inline-block;">
+  <img src="/images/code/load-profile-sersol.jpg" title="Load profile excerpt">
+  <figcaption>Load profile excerpt</figcaption>
+</figure>
+
+It looks like the mainframe stuff my dad worked on in the 70s and 80s. So it's very cool in a way, but also limited, and a huge shift in mindset from how we typically work today.
+
 ## Procedure Outline & Notes
 
 * Working on test, find a load profile that is similar to the desired specs for the new table.
