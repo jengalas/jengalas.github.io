@@ -11,7 +11,7 @@ I work with an ILS, Sierra, that brings new and changed records into the databas
 Just for kicks, here's part of a load profile:
 
 <figure style="display: inline-block;">
-  <img src="/images/code/load-profile-sersol.jpg" title="Load profile excerpt">
+  <img src="/images/code/load-profile-sersol.png" title="Load profile excerpt">
   <figcaption>Load profile excerpt</figcaption>
 </figure>
 
