@@ -5,7 +5,6 @@ categories: code
 image:
   teaser: 
 ---
-
 ## Procedure Outline & Notes
 
 * Working on test, find a load profile that is similar to the desired specs for the new table.
