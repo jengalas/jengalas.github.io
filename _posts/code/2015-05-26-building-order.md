@@ -63,7 +63,10 @@ There are two basic components to this app:
 
 Here is an excerpt from our Google Spreadsheet. You can see how the columns correspond to the various data points that we want to appear on our building page. This is the only file that your staff and students will have to update in order to publish their information to the web!
 
-spreadsheet.png
+<figure>
+  <a href="/images/code/spreadsheet.png" title="Google Sheet"><img src="/images/code/spreadsheet.png" title="Google Sheet"></a>
+  <figcaption>Google Sheet</figcaption>
+</figure>
 
 * Go to Google Drive and create a new spreadsheet. In order to set up your columns, start by analyzing the data you think you’re going to want to collect. You can always add, remove or modify columns later, but it helps to have a basic idea when you start.
 
@@ -95,7 +98,10 @@ For my example, I’m going to assume that we’re using the CONTENTdm option th
 
 That means that we’ll have to include our scripts by going to the collection we want to use (or creating a new one), and navigating to **Custom Pages/Scripts > Custom Scripts**. There you want to add **tabletop.js** and **handlebars.js**. Be sure to save and publish.
 
-includes.png "Including scripts in CONTENTdm"
+<figure>
+  <a href="/images/code/includes.png" title="Including scripts in CONTENTdm"><img src="/images/code/includes.png" title="Including scripts in CONTENTdm"></a>
+  <figcaption>Including scripts in CONTENTdm</figcaption>
+</figure>
 
 The first step is done!
 
@@ -103,7 +109,10 @@ Now, we’re going to create the custom page that will serve as our template. Th
 
 The chunks of the file look like this:
 
-file-structure-green.png "Structure of the HTML file"
+<figure>
+  <a href="/images/code/file-structure-green.png" title="Structure of the HTML file"><img src="/images/code/file-structure-green.png" title="Structure of the HTML file"></a>
+  <figcaption>Structure of the HTML file</figcaption>
+</figure>
 
 Let’s look first at the script.
 
@@ -368,7 +377,10 @@ Anytime you have lots of people collaborating on a project, you may have increas
 
 This is where a simple proxy called [Flatware](https://github.com/jsoma/flatware) enters the picture. Flatware was written by the same author as Tabletop. You set up Flatware as a web app, then simply start the Flatware web app and pass it your spreadsheet’s key. You only need to do the setup once. Then, whenever you click the “sync spreadsheets” button, Flatware will grab your Google Spreadsheet data and cache it in your S3 bucket.
 
-flatware-dashboard.png "Flatware dashboard"
+<figure>
+  <a href="/images/code/flatware-dashboard.png" title="Flatware dashboard"><img src="/images/code/flatware-dashboard.png" title="Flatware dashboard"></a>
+  <figcaption>Flatware dashboard</figcaption>
+</figure>
 
 ### Setting up Flatware
 
@@ -405,7 +417,10 @@ Now your template will pull your data from your S3 cached version of your spread
 
 So now the process looks like this:
 
-flatware-workflow.png 'Workflow with Flatware in the mix'
+<figure>
+  <a href="/images/code/flatware-workflow.png" title="Workflow with Flatware in the mix"><img src="/images/code/flatware-workflow.png" title="Workflow with Flatware in the mix"></a>
+  <figcaption>Workflow with Flatware in the mix</figcaption>
+</figure>
 
 Simply run your Flatware instance (I keep a button on my browser’s Links bar for quick access), and sync your spreadsheet whenever you’re ready to push your changes to your live page.
 
@@ -415,7 +430,10 @@ This is a situation where you would need to decide what workflow is better for y
 
 What if you decide not to use Flatware but still want a safety net? You can use Google Spreadsheets’ revision history to save yourself, at least back to a certain point.
 
-revision-history.png 'Google spreadsheet revision history'
+<figure>
+  <a href="/images/code/revision-history.png" title="Google spreadsheet revision history"><img src="/images/code/revision-history.png" title="Google spreadsheet revision history"></a>
+  <figcaption>Google spreadsheet revision history</figcaption>
+</figure>
 
 I also recommend maintaining a cache of static files, refreshed periodically, that you can revert to in an emergency. It’s fairly simple to write a web-scraping script in Python (using the [Selenium](http://www.seleniumhq.org/) and [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) libraries) that will retrieve the rendered content of your pages and write it to files that you can then serve instead of your dynamic pages when you need to.
 
@@ -425,7 +443,10 @@ I wanted to include a map as a visual index of our buildings’ locations, in ad
 
 Our [first version of the campus buildings](create post and link to it!) map was created using Google Fusion Tables. Fusion Tables provide a super-easy, out of the box way to create a quick map of just about anything that can be geocoded (or for which you have geographic coordinates).
 
-fusion-table-map.png
+<figure>
+  <a href="/images/code/fusion-table-map.png" title="Fusion table map"><img src="/images/code/fusion-table-map.png" title="Fusion table map"></a>
+  <figcaption>Fusion table map</figcaption>
+</figure>
 
 The Fusion Table solution worked fine, but because there is no way to export automatically from a Google Spreadsheet (where our building data is stored) to a Fusion Table, I had to create the Fusion Table columns manually.
 
@@ -776,7 +797,9 @@ Again, if you’re using CONTENTdm to give you a standard header and footer and 
 
 ### Déjà vu
 
-mapsheet-map.png "Mapsheet map of campus buildings"
+<figure>
+  <a href="/images/code/mapsheet-map.png" title="Mapsheet map of campus buildings"><img src="/images/code/mapsheet-map.png" title="Mapsheet map of campus buildings"></a>
+</figure>
 
 The new map looks eerily familiar, doesn’t it? I retained the old look for now because I wanted to focus on switching the “moving parts” from Fusion Tables to Mapsheet. It’s very simple to make style changes using CSS and functionality changes using all the options available in Mapsheet.
 
