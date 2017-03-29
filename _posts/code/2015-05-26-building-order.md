@@ -46,8 +46,8 @@ This example shows how we can take data from a Google Spreadsheet that looks lik
 And **dynamically generate** a page of this form for each building on our campus:
 
 <figure>
-  <a href="/images/code/spreadsheet-1024x844.png" title="Google Sheet"><img src="/images/code/spreadsheet-1024x844.png" title="Google Sheet"></a>
-  <figcaption>Google Sheet</figcaption>
+  <a href="/images/code/wml-page-2015.png" title="WML Building Page, 2015"><img src="/images/code/wml-page-2015.png" title="WML Building Page, 2015"></a>
+  <figcaption>WML Building Page, 2015</figcaption>
 </figure>
 
 ### Getting started
