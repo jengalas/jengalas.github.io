@@ -39,13 +39,16 @@ This post outlines the creation of the campus buildings app using Google Spreads
 This example shows how we can take data from a Google Spreadsheet that looks like this:
 
 <figure>
-  <a href="/images/code/spreadsheet-1024x844.png" title="Google Sheet"><img src="/images/code/spreadsheet-1024x844.png" title="Google Sheet"></a>
+  <a href="/images/code/spreadsheet.png" title="Google Sheet"><img src="/images/code/spreadsheet.png" title="Google Sheet"></a>
   <figcaption>Google Sheet</figcaption>
 </figure>
 
 And **dynamically generate** a page of this form for each building on our campus:
 
-wml-page-2015.png
+<figure>
+  <a href="/images/code/spreadsheet-1024x844.png" title="Google Sheet"><img src="/images/code/spreadsheet-1024x844.png" title="Google Sheet"></a>
+  <figcaption>Google Sheet</figcaption>
+</figure>
 
 ### Getting started
 
