@@ -38,6 +38,11 @@ This post outlines the creation of the campus buildings app using Google Spreads
 
 This example shows how we can take data from a Google Spreadsheet that looks like this:
 
+<figure style="position: relative;">
+  <a href="/images/code/spreadsheet-1024x844.png" title=""><img src="/images/code/spreadsheet-300x247.png" title="Google Sheet" style="max-width: 449px;"></a>
+  <figcaption style="position: absolute; bottom: -10px; left: 0;">Create new Fusion Table</figcaption>
+</figure>
+
 spreadsheet.png
 
 And **dynamically generate** a page of this form for each building on our campus:
