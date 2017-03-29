@@ -39,7 +39,7 @@ This post outlines the creation of the campus buildings app using Google Spreads
 This example shows how we can take data from a Google Spreadsheet that looks like this:
 
 <figure>
-  <a href="/images/code/spreadsheet-1024x844.png" title="Google Sheet"><img src="/images/code/spreadsheet-1024x844.png" title="Google Sheet" style="max-width: 449px;"></a>
+  <a href="/images/code/spreadsheet-1024x844.png" title="Google Sheet"><img src="/images/code/spreadsheet-1024x844.png" title="Google Sheet"></a>
   <figcaption>Google Sheet</figcaption>
 </figure>
 
