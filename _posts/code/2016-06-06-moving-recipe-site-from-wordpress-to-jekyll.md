@@ -1,0 +1,37 @@
+---
+title: Moving a Recipe Site from WordPress to Jekyll
+modified: 2016-06-06
+categories: code
+image:
+  teaser: 
+---
+
+For a few years I've been collecting my personal and family recipes on a site called TheGourmetMoose. As a user of WordPress for years, I naturally turned to that platform when I initially built the site, but it soon showed its limitations. Last year I decided to look for a different platform.
+
+Why move away from WordPress?
+
+- Entering recipes was cumbersome, and it wasn't fun anymore. Having to enter each ingredient in a separate field in a form took forever and wasn't conducive to simple copying and pasting from a typed recipe or one found online. WordPress recipe plugins are set up that way in order to create an "ingredients" taxonomy (as well as cuisine and other related taxonomies) but for me this was overkill. I don't need that level of granularity. Basically I just want to be able to put our recipes into one of two lists: our favorites and recipes that look interesting enough to try, but that we haven't tried yet. And then I would want to add keywords listing the types of cuisine (American, Eastern European) and the course (entree, dessert). Regular blog posts using categories and tags would fill that bill quite easily—but even though a blog would be a good format, is it really necesary to use WordPress here?
+
+- Running WordPress has gotten expensive. While the software itself is free and even most premium plugins are a reasonable one-time cost, WP itself has become more expensive in terms of the server requirements needed to run it. That means that many of the cheap/reasonably priced shared hosting environments simply won't do the job any longer. You'll have plenty of storage space, but your site will run *slowly* and you might often use enough CPU that your host sends you nastygrams or even disables your site temporarily.   Your server's PHP version might not even meet WP's minimum requirements, and often there isn't even much you can do but wait for the host to update or try to get moved to another server, often at considerable hassle to yourself. VPSs are much better for running WP, but they are a big step up in both cost and knowledge and experience requirements. You'll be setting up and maintaining, securing, etc. everything yourself.  Managed WP hosting takes care of a lot of those details for you, but managed WP hosting is far out of sight, price-wise, of anyone who's just creating WP sites for fun and learning. If you're making a profit I'm sure they're fine but otherwise, not feasible. Backing up is also time consuming and expensive. You're dealing with files and a database, which can all grow large very quickly. And constant plugin updates are not much fun either.
+
+I started to think about how else I might create the site still in a dynamic way but in a way that uses fewer resources and is more fun to add recipes. After all, they're our favorite family recipes, they should be fun to work with! And if I'm able to learn something in the process, even better!
+
+I had heard about static site generators a few times over the past few years but never looked into them seriously. I knew that Github pages support Jekyll, so I began to take a much closer look at it, and overall, I liked what I saw. The templating language, Liquid, was Greek to me but as I looked more closely I could see that it was quite similar to other templating languages I've used, such as Handlebars. And the rest is basically logic and investigative work. Just get in there, poke around and see if you can make something work, and go from there!
+
+Michael Rose's themes looked like a great starting point. They are well documented, relatively minimalistic, and Michael is extremely responsive to requests for help and enhancements. I settled on Minimal Mistakes for the recipe site.
+
+First thing to do is set up Jekyll on your local machine. This is often said to be tricky on Windows, but I must have found good tutorials because I had almost no problems. First you need to set up Ruby, and then as Michael advised I used bundler to get everything running together and to make sure all dependencies were properly installed. With Jekyll on your local machine, you can easily develop locally simply by starting the server (```bundle exec jekyll serve```) and then go to ```localhost:4000``` in your browser.
+
+Github pages, as I said, will build Jekyll pages for you assuming there are no errors and you aren't using any plugins that aren't whitelisted by Github (if you want to use Jekyll plugins, that's OK, but you will need to build your site locally and then push the contents of the _site folder to your Github repository.) Best part—hosting on Github pages is free! You can set up one user or organization page, but basically unlimited project sites, one per repo. You're limited to about 1GB of storage space, but that's plenty for this project and many others. And if you need more, you can always store large files like images in another location and simply link to them.
+
+The easiest way for me to get started was to fork Michael's repository, rename the repo in my account, and then clone it to my local machine. This ensures that your remotes are set up properly. (Note, though, that you can only fork someone else's repo once, so if you plan to do it more than once you'll have to get the files and set up your remotes manually.) He outlines the "installation" and configuration process quite well [link]. Ifollowed this and then did a push to Github to make sure everything worked (note: if you are using a project page, you'll have to push to the ```gh-pages``` branch).
+
+Now it's time to be creative! Here's where the learning comes in. Posts in Jekyll are written in Markdown. You can use regular HTML, but the whole point is to make editing and publishing recipes easy and quick! Markdown helps a lot.  
+I also had to learn about Jekyll front matter, which is metadata at the beginning of each post that tells Jekyll which format to use and provides variables for your use and for use by the theme.
+
+First you need to create a ```_posts``` category. This is where your posts, or in my case, recipes, go. The filenames should have the format ```YYYY-MM-DD-title-of-post.md```. If they don't, Jekyll won't process them. (This can be "hacked" as a good way to create draft posts, though: don't add the date as part of the filename and you can keep your posts in the folder without them being processed until you're ready.) I'll fill that folder with some recipes soon.
+
+ I knew I wanted my site to have two categories, *MooseFood* and *Recipes to Try* just like my current WP site. Similarly to what you might do in WP, I used Jekyll to set up an archive page for each category [add code] and made sure to add them to the navigation (found in ```_data```). Then you simply assign each recipe to one of the two categories (or both, but although it technically works, that's not how I intend to use the categories. In this case, they are supposed to be mutually exclusive). The archive pages have filenames in the form [category-name].md. Make sure [category-name] matches the label you've used in the navigation.  
+
+I added a few sample recipes and pushd them to Github. Everything displayed fine, but I wanted the archive pages to display as a grid rather than in a list. Some digging led me to discover that I could add a type attribute to the include line and give it a value of grid. Cool! Now the recipes display in a grid, as they did on my previous site.
+
